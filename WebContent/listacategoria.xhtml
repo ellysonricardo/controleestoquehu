@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:uif="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:fn="http://java.sun.com/jsp/jstl/functions"
+    xmlns:p="http://primefaces.org/ui">
+    
+
+    <ui:composition template="_template.xhtml">
+    <ui:define name="titulo">
+   Categoria
+    </ui:define>
+     <ui:define name="corpo">
+	<div class="card">
+		<p:commandButton value="Voltar" action="index" />
+			 
+		<br /> <br />
+	</div>
+	<h:form>
+		<div class="card">
+						
+
+			<p:commandButton value="Buscar" action="#{CategoriaBean.listarCategoria}" update="idTabela" />
+				
+			<br /> <br />
+		</div>
+				<div class="card">
+			<p:dataTable id="idTabela" value="#{CategoriaBean.listaCategoria}" var="c">
+			
+					 <f:facet name="header">
+              Categoria
+              </f:facet>
+			
+				
+				<p:column headerText="ID" >
+					<h:outputText value="${c.id}" />
+				</p:column>
+				
+				<p:column headerText="Categoria" >
+					<h:outputText value="${c.categoria}" />
+				</p:column>
+
+				
+				
+			</p:dataTable>
+		</div>
+	</h:form>
+</ui:define>
+    </ui:composition>
+</html>

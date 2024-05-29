@@ -1,0 +1,10 @@
+42;Normal
+43;Não Padronizado
+44;Consignação
+48;Consignação emergencial
+49;Produção
+50;Reposição Automática
+51;Urgência
+52;Contrato
+53;Pregão
+54;Programa de saúde

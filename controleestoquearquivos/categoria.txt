@@ -1,0 +1,46 @@
+3;Material Farmacológico
+4;Material Hospitalar
+5;Material Laboratorial
+11;Material P/ Audio, Video e Foto
+12;Gás e Outros Materiais Engarrafados
+13;Material de Cama, Mesa e Banho
+14;Gêneros de Alimentação
+15;Material de Expediente
+16;Material de Limpeza e Prod. de Higienização
+17;Material P/ Manut. de Bens Imóveis/Instalações
+18;Material de Processamento de Dados
+19;Outros Materiais de Consumo
+20;Apar. Equip. Med., Odont, Labor. Hospit.
+21;Material em desuso
+23;Veículos de Tração Mecânica
+25;Material de Consumo de Uso Duradouro
+27;Material Bibliográfico
+28;Maq., Ferramentas e Utensílios de Oficina
+29;Material de Copa e Cozinha
+31;Mobiliario em Geral
+33;Material Odontológico
+143;Material Químico
+149;Combustíveis e Lubrificantes Automotivos
+153;Uniformes, Tecidos e Aviamentos
+159;Material P/ Manutenção de Bens Móveis
+164;Secretaria de Saúde
+165;Material Elétrico e Eletrônico
+166;Equipamentos  e utensílios hidráulicos e elétricos
+167;Máquinas, instalações e utens. de escritório
+168;Aparelhos e utensilios domésticos
+169;Aparelhos e equipamentos de comunicação
+170;Material para reabilitação profissional
+171;Ferramentas
+172;Aparelho de medição e orientação
+173;Máquinas e equipamentos energéticos
+174;Material de Proteção e Segurança
+175;Peças não incorporaveis a móveis
+176;Equipamentos de Processamento de Dados
+177;Material de acondiocionamento e embalagem
+178;Material para Comunicações
+179;Equipamento de proteção, segurança e socorro
+180;Aparelhos e equip. P/ esportes e diversões
+181;Serviços gráficos e editoriais
+182;Equipamentos de TIC - Impressoras
+183;Máquinas, utensílios e equipamentos diversos
+184;Material de Sinalização Visual e outros

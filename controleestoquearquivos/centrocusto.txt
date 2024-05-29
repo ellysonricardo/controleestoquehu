@@ -1,0 +1,135 @@
+1;E04;Ambulatorio;1;N
+2;E05;Emergencia;1;N
+3;A01I;Servico de Admissao e Alta;1;N
+4;I23;Central de Triagem;1;N
+5;B11;Documentacao Medica;1;N
+6;I15J;Posto de Enfermagem 10b;1;N
+7;I15A;Posto de Enfermagem 5a;1;N
+8;I15B;Posto de Enfermagem 5b;1;N
+9;I15C;Posto de Enfermagem 5c;1;N
+10;I15D;Posto de Enfermagem 5d;1;N
+11;I15E;Posto de Enfermagem 9a;1;N
+12;I15F;Posto de Enfermagem 9b;1;N
+13;I15G;Posto de Enfermagem 9c;1;N
+14;I15H;Posto de Enfermagem 9d;1;N
+15;I15I;Posto de Enfermagem 10a;1;N
+16;I15K;Posto de Enfermagem 10c;1;N
+17;I15L;Posto de Enfermagem 10d;1;N
+18;I15M;Posto de Enfermagem 11a;1;N
+19;I15N;Posto de Enfermagem 11b;1;N
+20;I15O;Posto de Enfermagem 11c;1;N
+21;I15P;Posto de Enfermagem 11d;1;N
+22;I15Q;Posto de Enfermagem 10f (particular);1;N
+23;E03;Posto de Enfermagem 5f (sida);1;N
+24;B10;Servico de Farmacia;1;N
+25;E01A;Servico de Angiologia;1;N
+26;E01B;Servico de Cardiologia;1;N
+27;E01C;Servico de Dermatologia;1;N
+28;E01D;Servico Doencas Infec. e Parasit.;1;N
+29;E01E;Servico de Endocrinologia;1;N
+30;E01F;Servico de Gastroenterologia;1;N
+31;E01G;Servico de Hematologia;1;N
+32;E01H;Servico de Imunologia;1;N
+33;E01I;Servico de Nefrologia;1;N
+34;E01J;Servico de Neurologia;1;N
+35;E01K;Servico de Nutrologia;1;N
+36;E01L;Servico de Pneumologia;1;N
+37;E01M;Servico de Reumatologia;1;N
+38;E01N;Servico de Clinica Medica;1;N
+39;E02A;Servico de Urologia;1;N
+40;E02B;Servico de Cirurgia Plastica;1;N
+41;E02C;Servico de Cirurgia Toracica;1;N
+42;E02D;Servico de Neurocirurgia;1;N
+43;E02E;Servico de Cirurgia Abdominal;1;N
+44;E02F;Servico de Cirurgia Oral;1;N
+45;E02G;Servico de Cirurgia Vascular;1;N
+46;E02H;Servico de Proctologia;1;N
+47;E02I;Servico de Ginecologia;1;N
+48;E02J;Servico de Oftalmologia;1;N
+49;E02K;Servico de Otorrinolaringologia;1;N
+50;E02L;Servico de Traumato-ortopedia;1;N
+51;E02M;Servico de Cirurgia Cardiaca;1;N
+52;I03;Anestesia;1;N
+53;I01;Servico Social;1;N
+54;I04;Patologia Clinica;1;N
+55;I05;Hemoterapia;1;N
+56;I06;Anatomia Patologica;1;N
+57;I07;Radiodiagnostico (rx);1;N
+58;I08;Medicina Nuclear;1;N
+59;I09;Hemodialise;1;N
+60;I10;Medicina Fisica e Reabilitacao;1;N
+61;I11;Secao de Metodos Especiais (sme);1;N
+62;I12;Centro Cirurgico;1;N
+63;I13;Centro de Tratamento Intensivo (cti);1;N
+64;I14;Tomografo Computadorizado;1;N
+65;I17;Hemodinamica;1;N
+66;B07;Servico de Nutricao e Dietetica;1;N
+67;I04A;Laboratório de Liquor;1;N
+68;I04B;Laboratório de Hematologia;1;N
+69;I04C;Laboratório de Urinálise;1;N
+70;I04D;Laboratório de Hormônio;1;N
+71;I04E;Laboratório de Coprologia;1;N
+72;I04F;Laboratório de Bioquímica;1;N
+73;I04G;Laboratório de Bacteriologia;1;N
+74;I04H;Laboratório de Virulogia;1;N
+75;I04I;Laboratório de Automação;1;N
+76;I04J;Laboratório de Imunosorologia;1;N
+77;I04L;Laboratório de Micologia;1;N
+78;I04M;Laboratório de Emergência;1;N
+79;A01A;Diretoria Geral e Gabinete (dg);1;N
+80;A01B;Divisao de Recursos Humanos (drh);1;N
+81;A01C;Divisao Financeira (dfn);1;N
+82;A01D;Coord. de Processamento de Dados (cpd);1;N
+83;A01E;Divisao de Apoio Assistencial (daa);1;N
+84;A01F;Divisao de Engenharia (deg);1;N
+85;A01G;Divisao de Atividades Gerenciais (dag);1;N
+86;A01H;Divisao da Saude da Comunidade (dsc);1;N
+87;B01A;Servicos Gerais;1;N
+88;B01B;Vigilancia;1;N
+89;B01C;Arquivo e Protocolo;1;N
+90;B01D;Comunicacao;1;N
+91;B01E;Zeladoria;1;N
+92;B02;Servico de Material;1;N
+93;B03;Setor de Limpeza;1;N
+94;B04;Caldeira;1;N
+95;B06;Transportes;1;N
+96;B08;Lavanderia e Rouparia;1;N
+97;B09;Centro de Material Esterelizado (cme);1;N
+98;I25;Serviço de Fisioterapia;;N
+99;A01N;Divisao de Enfermagem (den);1;N
+100;I16;Distr. Drogas e Medicamentos A Pacientes;1;N
+101;P02;Manipulaçao de Medicamentos;1;N
+102;P01;Secao de Controle de Qualidade/farmacia;1;N
+103;P03;Farmacia Ambulatorial;1;N
+104;P04;Pesquisa;1;N
+105;A01J;Divisao Medica (dmd);1;N
+106;A01K;Chefia da Unid. de Serv. Clinicos;1;N
+107;A01L;Chefia da Unid. Serv. Cirurgicos;1;N
+108;A01M;Chefia Un.sv. Comp. Diag. e Trat.;1;N
+109;A01O;Chefia Serv.enf.intern.clin.;1;N
+110;A01P;Chefia Serv.enf.intern.cirurg.;1;N
+111;A01Q;Chefia Serv. Enf. Centro Cirurg.;1;N
+112;A01R;Chefia Serv.enf.saude da Comunidade;1;N
+113;B05;Engenharia e Manutencao;1;N
+114;E06;Banco de Celulas;1;N
+115;E02N;Enf.13 Posto 11 - Eci;1;N
+116;I02;Gasoterapia;1;N
+117;N01;Coord.de Atividades Educacionais (cae);1;N
+118;N02;Saude Coletiva;1;N
+119;N03;Servico de Treinamento e Desenvolvimento;1;N
+120;N04;Inst.puer.ped.martagao Gesteira (ippmg);1;N
+121;N05;Coord.de Projetos e Pesquisas;1;N
+122;N06;Hospital Sao Francisco;1;N
+123;X99;Ajustes;1;N
+124;E01;Unidades Clinicas (internacao);1;N
+125;A01;Administracao;1;N
+126;B01;Condominio;1;N
+127;I15;Postos de Enfermagem;1;N
+128;E02;Unidades Cirurgicas (internacao);1;N
+129;I24;Transplante de Medula Ossea;1;N
+130;E07;E13 Pii;1;N
+132;A01S;Administração da Emergência;;N
+133;I27;Serviço de Fonoaudiologia;;N
+134;I26;Serviço de Radioterapia;2;N
+135;E01O;Serviço de Psiquiatria;;N
+136;I28;Servico de Terapia Ocupacional;;N

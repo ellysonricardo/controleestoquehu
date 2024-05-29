@@ -1,0 +1,13 @@
+1; ; 
+2;DMD;DMD - Divisão Médica
+3;DEN;DEN - Divisão de Enfermagem
+4;CIR;CIR - Coordenação de Informatica e Redes
+5;DEG;DEG - Divisão de Engenharia
+6;DAA;DAA - Divisão de Apoio Assistencial
+7;DG;DG  - Direção Geral
+8;DFN;DFN - Divisão de Finanças
+9;DRH;DRH - Divisão de Recursos Humanos
+10;DSC;DSC - Divisão de Saúde da Comunidade
+11;DAG;DAG - Divisão de Atividades Gerenciais
+12;CAE;CAE- Coordenação de Assuntos Educacionais
+13;IDT;IDT- Instituto de Doenças do Torax

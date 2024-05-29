@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:uif="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:fn="http://java.sun.com/jsp/jstl/functions"
+    xmlns:p="http://primefaces.org/ui">
+    
+
+    <ui:composition template="_template.xhtml">
+    <ui:define name="titulo">
+   Controle dos Itens de Estoques do HUCFF
+    </ui:define>
+     <ui:define name="corpo">
+	<div class="card">
+		<p:commandButton value="Voltar" action="index" />
+			 
+		<br /> <br />
+	</div>
+	<h:form>
+		<div class="card">
+						
+
+			<p:commandButton value="Buscar" action="#{ItemEstoqueBean.listarItemEstoque}" update="idTabela" />
+				
+			<br /> <br />
+		</div>
+				<div class="card">
+			<p:dataTable id="idTabela" value="#{ItemEstoqueBean.listaItemEstoque}" var="ie">
+			
+					 <f:facet name="header">
+              Items de Estoque
+              </f:facet>
+			
+				
+				<p:column headerText="Descrição do Item" >
+					<h:outputText value="${ie.descricao}" />
+				</p:column>
+				
+				<p:column headerText="Quantidade de Itens no Estoque" >
+					<h:outputText value="${ie.quantidade}" />
+				</p:column>
+
+				
+				
+			</p:dataTable>
+		</div>
+	</h:form>
+</ui:define>
+    </ui:composition>
+</html>

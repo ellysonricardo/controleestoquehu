@@ -1,0 +1,3 @@
+4;N;;;permanente;N;;perm
+5;N;;;consumo;N;;cons
+6;N;;;consumo imediato;N;;consimed

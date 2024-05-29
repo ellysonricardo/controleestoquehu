@@ -1,0 +1,1001 @@
+1;CIR;Coordenação de Informática e Rede;82;;O;1 andar;;N;Y;2;Y;05/05/99;31/12/1840;N;N;;N
+2;SAM;Serviço de Ambulatório;1;;E;1 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+3;SEM;Emergência;2;;EM;Sub-Solo;45;Y;Y;;Y;05/05/99;31/12/1840;N;N;;N
+4;SAA;Admissao e Alta;3;;E;1 andar;47;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+5;SDM;Documentação Médica;5;;MR;1 andar;;N;N;;N;05/05/99;31/12/1840;N;Y;;N
+6;CTRI;Central de Triagem;4;;EM;1o. andar;;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+7;AN;Anestesiologia;52;;E;1 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+8;10B;10B;6;;W;10;;N;Y;2;Y;05/05/99;31/12/1840;N;N;;N
+9;09B;09B;12;;W;9;;N;Y;2;Y;05/05/99;31/12/1840;N;N;;N
+10;AG;Angiologia;25;;E;3 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+11;CD;Cardiologia;26;;E;8 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+12;CG;Cirurgia Geral;43;;E;11 andar;44;N;Y;;Y;05/05/99;31/12/1840;N;N;;N
+13;CP;Cirurgia Plástica;40;;E;10 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+14;CC;Cirurgia Cardíaca;51;;E;8 andar;44;N;Y;;Y;05/05/99;31/12/1840;N;N;;N
+15;CT;Cirurgia Torácica;41;;E;10 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+16;CV;Cirurgia Vascular;45;;E;10 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+18;CL;Clínica Médica;38;;E;9 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+19;DM;Dermatologia;27;;E;5 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+20;DP;Infectologia;28;;E;5 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+21;ED;Endocrinologia;29;;E;9 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+22;GE;Gastroenterologia;30;;E;9 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+23;GI;Ginecologia;47;;E;11 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+24;IM;Imunologia;32;;E;9 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+26;UTI-13;CTI- Unidade de Terapia Intensiva;63;;W;13;;N;Y;;N;05/05/99;31/12/1840;Y;N;;N
+27;SESAT;SESAT- Serviço de Saúde do Trabalhador;80;;E;10º andar;58;N;Y;;Y;05/05/99;31/12/1840;N;N;;N
+28;NC;Neurocirurgia;42;;E;10 andar;44;N;Y;;N;09/09/99;31/12/1840;N;N;;N
+29;NFC;Nefrologia Clínica;33;;E;9 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+30;NG;Nutrologia;35;;E;9 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+31;OC;Oncologia;;;E;11 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+32;OF;Oftalmologia;48;;E;11 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+33;OR;Otorrinolaringologia;49;;E;11 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+34;OT;Ortopedia e Traumatologia;50;;E;10 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+38;PR;Proctologia;46; ;E;11 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+39;PS;Psiquiatria/Psicologia Médica;135;;E;9 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+40;PT;Pneumologia;35;;E;3 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+41;RM;Reumatologia;37;;E;9 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+42;SP;Saúde Comunitaria;86;;E;5 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+44;UR;Urologia;39;;E;11 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+45;EF;Enfermagem;;;E;;44;;Y;;;05/05/99;31/12/1840;N;N;;N
+46;FN;Audiometria -  Fonoaudiologia;133;;E;Ambulatorio;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+47;FAM;Serviço de Farmácia;24;;D;4 andar;;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+48;SFT;Serviço de Fisioterapia;98;;E;2 andar;59;N;Y;;Y;05/05/99;31/12/1840;N;N;;N
+49;NT;Nutrição;66;;E;ambulatoro;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+53;NE;Neurologia;34;;E;10 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+54;HE;Hematologia;31;;E;3 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+55;AP;Anatomia Patológica;56;;E;sob solo;52;N;Y;;Y;05/05/99;31/12/1840;N;N;;N
+58;MN;Medicina Nuclear;58;;E;Sob solo;50;N;Y;;Y;05/05/99;31/12/1840;N;N;;N
+59;RX;Raio X;57;;E;Sub solo;48;N;Y;;Y;05/05/99;31/12/1840;N;N;;N
+63;AC;Acupuntura;;;E;1 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+65;PATCLIN;Patologia Clínica;54;;E;3 andar;57;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+66;CB;Cirurgia Oral;;;E;Ambulatorio;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+67;MO;Medicina Ocupacional;;;E;Ambulatorio;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+68;CF;Ortopedia Infecção;79;;E;8 andar;44;N;Y;;N;05/05/99;31/12/1840;N;N;;N
+69;05B;05B;8;;W;5;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+70;05C;05C;9;;W;5;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+71;05D;05D;10;;W;5;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+72;05F;05F - UPC;23;;W;5;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+73;09A;09A;11;;W;9;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+74;09C;09C;13;;W;9;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+75;09D;09D;14;;W;9;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+76;10A;10A;15;;W;10;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+77;10C;10C;17;;W;10;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+78;10D;10D;17;;W;10;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+79;11A;11A;18;;W;11;54;Y;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+80;11B;11B;19;;W;11;54;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+81;11C;Laboratorio Polissonografia;20;;W;11;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+82;11D;11D;21;;W;11;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+83;13A;13A;63;;W;13;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+84;13B;13B;63;;W;13;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+85;13C;13C;63;;W;13;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+87;10F;10F;22;;W;10;;N;Y;2;Y;07/05/99;31/12/1840;N;N;;N
+88;SE;Sala de Enfermagem;1;;E;1;;N;N;;Y;10/05/99;31/12/1840;N;N;;N
+89;LL;Laboratorio de Liquor;67;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+90;LH;Laboratorio de Hematologia;68;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+91;LU;Laboratorio de Urinalise;69;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+92;LO;Laboratorio de Hormonio;70;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+93;LC;Laboratorio de Coprologia;71;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+94;LB;Laboratorio de Bioquimica;72;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+95;BAC;Laboratorio de Bacteriologia;73;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+96;LV;Laboratorio de Virologia;74;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+97;AUT;Laboratorio de Automação;75;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+98;IMU;Laboratorio de Imunologia;76;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+99;LM;Laboratorio de Micologia;77;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;N
+100;LE;Laboratorio de Emergencia;78;;E;3 andar;57;N;Y;;N;10/05/99;31/12/1840;N;N;;Y
+101;TC;Tomografia Computadorizada;64;;E;Sub Solo;48;N;Y;;Y;10/05/99;31/12/1840;N;N;;N
+102;US;Ultra-sonografia;57;;E;Sub Solo;48;N;Y;;Y;10/05/99;31/12/1840;N;N;;N
+104;HEDIN;Hemodinâmica;65;;E;sub solo;48;N;Y;;Y;21/05/99;31/12/1840;N;N;;N
+105;HEMOTERAPIA;Hemoterapia;55;;E;3 andar;53;N;Y;;Y;21/05/99;31/12/1840;N;N;;N
+106;DLS;Hemodiálise;59;;W;7;64;N;Y;2;Y;21/05/99;31/12/1840;N;N;;N
+107;QU;Quimioterapia Ambulatório;;;E;2 andar;;N;Y;;N;21/05/99;31/12/1840;N;N;;N
+108;DC;Cirurgia Dermatologica;27;;E;5 andar;44;N;Y;;N;21/05/99;31/12/1840;N;N;;N
+109;PC;Pequena Cirurgia Ambulatorial;1;;E;1 andar Ambulatorio ;44;N;Y;;Y;21/05/99;31/12/1840;N;N;;N
+110;ELE;Eletrocardiograma;26;;E;2 andar;44;N;Y;;N;21/05/99;31/12/1840;N;N;;N
+111;CCIR;Centro Cirúrgico;62;;OP;12 andar;;N;Y;2;Y;24/05/99;31/12/1840;N;N;;N
+112;CME;SEME - Central de Material Esterilizado;97;;OP;12 andar;;N;N;;N;24/05/99;31/12/1840;N;N;;N
+113;SME;Metodos Especiais;61;;E;3 andar;46;N;Y;;Y;24/05/99;31/12/1840;Y;N;;N
+114;MFR;SMFR - Medicina Física e Reabilitação;60;;E;2 andar;49;N;Y;;Y;24/05/99;31/12/1840;Y;N;;N
+115;SS;Serviço Social - Ambulatório;53;;E;5 andar;44;N;Y;;Y;26/05/99;31/12/1840;N;N;;N
+116;ANCDOR;Clínica da Dor;52;;E;2 andar ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+117;CDARR;Arritmia -  Cardiologia;26;;E;2 andar do ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+118;CLHIP;Hipertensão - Clínica Médica;;;E;;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+119;CLICOLAG;Colagenose - Clínica Médica;38;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+120;CLIGER;Geriatria - Clínica Médica;38;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+121;CLIFIG;Hepatologia;1;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+122;HAN;Hanseniase  -  Dermatologia;27;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+123;ADDER;AIDS - Dermatologia;27;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+124;ADDIP;AIDS - Infectologia;28;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+125;PORAL;Dermatologia Oral - Dermatologia;27;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+126;PVUL;Dermatologia Genital;27;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+127;EFDIAB;Diabetes - Enfermagem;99;;E;;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+128;EFHIP;Hipertensão - Enfermagem;99;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+129;EFHAN;Hanseniase  -  Enfermagem;99;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+130;EFQUI;Quimioterapia -  Enfermagem;99;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+131;EFPLA;Planejamento Familiar  -  Enfermagem;99;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+132;EFTUB;Tuberculose  -  Enfermagem;99;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+133;EFGER;Geriatria -  Enfermagem;99;;E;ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+134;EFFIG;Fígado -  Enfermagem;99;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+135;EFCLI;Climatério  -  Enfermagem;99;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+136;ADGIN;AIDS - Ginecologia;47;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+137;NEUCEF;Cefaléia  -  Neurologia;34;;E;ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+138;NEUELE;Doenças NeuroMuscular;34;;E;ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+139;NFTRA;Transplante Renal - Nefrologia;33;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+140;NUTDIA;Diabetes - Nutrição;66;;E;ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+141;NUTGER;Geriatria  -  Nutrição;;;E;Ambulatoro;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+142;ONCQUI;Quimioterapia  - Oncologia;;;E;ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+143;OFTOCU;Oculo plastica,V.L.e Orbita - Oftalmologia;48;;E;Ambulatorio;44;N;Y;;N;26/05/99;31/12/1840;N;N;;N
+144;PSGER;Geriatria Neuropsicologia - Psicologia Médica;135;;E;ambulatorio;44;N;Y;;N;27/05/99;31/12/1840;N;N;;N
+145;PNEONC;Onco-Pneumologia;36;;E;ambulatorio;44;N;Y;;N;27/05/99;31/12/1840;N;N;;N
+146;PNETUB;Tuberculose  -  Pneumologia;36;;E;Ambulatorio;44;N;Y;;N;27/05/99;31/12/1840;N;N;;N
+147;PNEDPOC;DPOC  -  Pneumologia;36;;E;ambulatorio;44;N;Y;;N;27/05/99;31/12/1840;N;N;;N
+148;SSTUB;Tuberculose  -  Serviço Social;53;;E;Ambulatorio;44;N;Y;;N;27/05/99;31/12/1840;N;N;;N
+149;SSOCU;Medicina Ocupacional  -  Serviço Social;53;;E;Ambulatorio;44;N;Y;;N;27/05/99;31/12/1840;N;N;;N
+150;SSGER;Geriatria -  Serviço Social;53;;E;Ambulatoria;44;N;Y;;N;27/05/99;31/12/1840;N;N;;N
+151;UROTRA;Transplante Renal - Urologia;39;;E;Ambulatorio;44;N;Y;;N;27/05/99;31/12/1840;N;N;;N
+152;SERD;SERDES - Serviço de Desenvolvimento;99;;W;5;54;N;Y;;Y;07/06/99;31/12/1840;N;N;;N
+153;SEA;SEATEC;99;;O;5 andar;;N;N;;N;07/06/99;31/12/1840;N;N;;N
+154;NEDEN;NEDEN - Seção de Pesquisa da DEN;99;;E;5 andar;;N;N;;N;08/06/99;31/12/1840;N;N;;N
+155;SOR;Laboratorio de Sorologia;54;;E;3 andar;57;N;Y;;N;25/06/99;31/12/1840;N;N;;N
+156;CAR;Laboratorio de Carga Viral;54;;E;3 andar;;N;Y;;N;25/06/99;31/12/1840;N;N;;N
+157;LABCOL;Coleta de Exames;54;;E;3 andar;;N;Y;;N;25/06/99;31/12/1840;N;N;;Y
+158;ALMOX;Almoxarifado Central;92;;O;;;N;N;;N;19/07/99;31/12/1840;N;N;;N
+1857;CLIM;Climatério - Clínica Médica;38;;E;1 andar;44;N;Y;;N;11/08/99;31/12/1840;N;N;;N
+3569;CLGERDEM;Geriatria - Demência - Clínica Médica;38;;E;1 andar;44;N;Y;;N;24/08/99;31/12/1840;N;N;;N
+3570;MENOED;Climatério - Endocrinologia;29;;E;2 andar;44;N;Y;;N;24/08/99;31/12/1840;N;N;;N
+3571;CLGRAV;Gravidez de Alto Risco - Clínica Médica;38;;E;;44;N;Y;;N;24/08/99;31/12/1840;N;N;;N
+3573;DMFOTO;FotoDermatologia - Dermatologia;27;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3574;GESESO;Esofago - Gastroenterologia;30;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3575;OCGINE;Onco-Ginecologia;1;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3576;OCGAS;Onco-Gastroenterologia ;1;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3577;NFLIT;Litíase Renal - Nefrologia;30;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3578;IMASM;Asma/Tosse Cronica - Imunologia;32;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3579;IMTOS;Tosse Crônica - Imunologia;32;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3580;IMURT;Urticária - Imunologia;32;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3581;CDPOSA;Pos Alta Coronaria - Cardiologia;26;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3583;CGTIR;Tireóides - Cirurgia Geral;43;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3584;NEEPI;Epilepsia - Neurologia;34;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3585;NUTAIDS;AIDS - Nutrição;66;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3586;NUTINT;Doença Intestinal Inflamatória - Nutrição;66;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3587;NUTHIPE;Hipertensão - Nutrição;66;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3588;NUTRAS;Transplante de Pulmão - Nutrição;66;;E;;44;N;Y;;N;25/08/99;31/12/1840;N;N;;N
+3624;CGTRANS;Transplante de Pancreas/Rim;43;;E;;44;N;Y;;N;06/09/99;31/12/1840;N;N;;N
+3625;PTTRANS;Transplante de Pulmão - Pneumologia;36;;E;;44;N;Y;;N;06/09/99;31/12/1840;N;N;;N
+3630;CGEST;Estomago - Cirurgia Geral;43;;E;;44;N;Y;;N;08/09/99;31/12/1840;N;N;;N
+3631;CGLAPA;Laparoscopia - Cirurgia Geral;43;;E;;44;N;Y;;N;08/09/99;31/12/1840;N;N;;N
+3632;DMCOS;Cosmestologia - Dermatologia;27;;E;;44;N;Y;;N;08/09/99;31/12/1840;N;N;;N
+3644;NCVAS;NeuroVascular;42;;E;;44;N;Y;;N;10/09/99;31/12/1840;N;N;;N
+3660;GIMA;Mastologia - Ginecologia;47;;E;;44;N;Y;;N;17/09/99;31/12/1840;N;N;;N
+3681;CAMB;Reserva do Ambulatorio;;;E;;;N;N;;N;27/09/99;31/12/1840;N;N;;N
+3684;EFTRFI;Transplante de Fígado - Enfermagem;99;;E;;44;N;Y;;N;28/09/99;31/12/1840;N;N;;N
+3685;EFTRRE;Transplante Renal - Enfermagem;99;;E;;44;N;Y;;N;28/09/99;31/12/1840;N;N;;N
+3700;08C;08C;;;W;8;;N;Y;2;Y;05/10/99;31/12/1840;N;N;;N
+3728;08D;08D;;;W;8;;N;Y;2;Y;18/10/99;31/12/1840;N;N;;N
+3731;SPNEU;SME-Pneumologia;61;;E;3º ANDAR;46;N;Y;;Y;19/10/99;31/12/1840;N;N;;N
+3733;SNEURO;SME-Neurologia;61;;E;3º ANDAR;46;N;Y;;Y;19/10/99;31/12/1840;N;N;;N
+3734;SMEDER;SME-Dermatologia;61;;E;3º ANDAR;46;N;Y;;Y;19/10/99;31/12/1840;N;N;;N
+3735;SCAR;SME-Cardiologia;61;;E;3º ANDAR;46;N;Y;;Y;19/10/99;31/12/1840;N;N;;N
+3736;SORL;SME-Otorrinolaringologia;61;;E;3º ANDAR;46;N;Y;;Y;19/10/99;31/12/1840;N;N;;N
+3737;SMEGASTRO;SME-Gastroenterologia;61;;E;3º ANDAR;46;N;Y;;Y;19/10/99;31/12/1840;N;N;;N
+3738;SPT;SME-Proctologia;61;;E;3º ANDAR;46;N;Y;;Y;19/10/99;31/12/1840;N;N;;N
+3739;SURO;SME-Urologia;61;;E;3º ANDAR;46;N;Y;;Y;19/10/99;31/12/1840;N;N;;N
+3740;SGIN;SME-Ginecologia;61;;E;3º ANDAR;46;N;Y;;Y;19/10/99;31/12/1840;N;N;;N
+3741;SOFT;SME-Oftalmologia;61;;E;3º ANDAR;46;N;Y;;Y;19/10/99;31/12/1840;N;N;;N
+3746;SANG;SME-Angiologia;61;;E;3º ANDAR;46;N;Y;;N;21/10/99;31/12/1840;N;N;;N
+3783;SAUD;Projeto de Saúde Auditiva - Fonoaudiologia;61;;E;;65;N;Y;;N;08/11/99;31/12/1840;N;N;;N
+3787;CAF;CAF-Central de Abast. Farmaceutico;24;;O;4;;N;N;2;N;09/11/99;31/12/1840;N;N;;N
+3788;FADS;Farmácia Dispensaçao;100;;D;4 andar;;N;N;;N;09/11/99;31/12/1840;N;Y;;N
+3789;FAMAN;Manipulaçao;101;;D;;;N;N;;N;09/11/99;31/12/1840;N;N;;N
+3790;CQ;Controle de Qualidade;102;;D;4 andar;;N;N;;N;09/11/99;31/12/1840;N;N;;N
+3791;FA;Farmácia Ambulatorial;103;;D;1 andar;;N;N;;N;09/11/99;31/12/1840;N;N;;N
+3792;CQM;Central de Quimioterapia;1;;D;1 andar;;N;N;;N;09/11/99;31/12/1840;N;N;;N
+3793;PTPI;Pneumopatias Intersticiais;36;;E;;44;N;Y;;N;09/11/99;31/12/1840;N;N;;N
+3800;SCLID;SME-Clinica da Dor;61;;E;;46;N;Y;;Y;10/11/99;31/12/1840;N;N;;N
+3885;PTPO;Pneumopatias Ocupacionais;36;;E;1 andar;44;N;Y;;N;06/12/99;31/12/1840;N;N;;N
+3901;GEHIPPOR;Hipertensão Porta - Gastroenterologia;30;;E;;44;N;Y;;N;13/12/99;31/12/1840;N;N;;N
+3902;DPTRARE;Transplante Renal - Infectologia;28;;E;;44;N;Y;;N;13/12/99;31/12/1840;N;N;;N
+3905;MFRCF;SMFR - Condicionamento Físico;60;;E;;49;N;Y;;Y;14/12/99;31/12/1840;N;N;;N
+3910;DG;Diretoria Geral e Gabinete (DG);;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3911;DISTR;Distr. Drogas e Medicamentos a Pacientes;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3912;DSC;Divisão de Saúde da Comunidade (DSC);;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3913;DAA;Divisão de Apoio Assistencial (DAA);;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3914;DAG;Divisão de Atividades Gerenciais (DAG);;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3915;DEN;Divisão de Enfermagem (DEN);;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3916;DEG;Divisão de Engenharia (DEG);;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3917;DRH;Divisão de Recursos Humanos (DRH) - Gabinete;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3918;DFN;Divisão Financeira (DFN);;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3919;DMD;Divisão Médica (DMD);;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3920;ECI;ECI - 11B;;;W;11;54;N;Y;;Y;15/12/99;31/12/1840;N;N;;N
+3921;MANUT;Engenharia e Manutenção;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3923;GASO;Gasoterapia;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3926;HESFA;HESFA - Hostipal São Francisco de Assis ;;;O;;68;N;N;;N;18/06/2001;31/12/1840;N;N;;N
+3927;IPPMG;IPPMG - Instituto de Pediatria e Puericultura Martagão Gesteira;;;O;;68;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3940;ROUPA;Lavanderia e Rouparia;96;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3941;MANIPULA;Manipulação de Medicamentos - Farmácia;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3944;PESQ;Pesquisa;;;E;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3945;05A;05A;;;W;5;;N;Y;;Y;15/12/99;31/12/1840;N;N;;N
+3946;SAC;Saúde Coletiva;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3947;QUALIDAD;Seção de Controle de Qualidade - Farmácia;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3950;CIRGERAL;Serviço de Cirurgia Geral;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3960;GASTRO;Serviço de Gastroenterologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3961;GINECO;Serviço de Ginecologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3962;HEMATOL;Serviço de Hematologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3963;IMUNOL;Serviço de Imunologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3964;CODCONT;Coordenação-Geral de Contratos;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3966;SNEFRO;Serviço de Nefrologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3967;NEUROCIR;Serviço de Neurocirurgia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3968;NEURO;Serviço de Neurologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3969;NUTRI;Serviço de Nutrição e Dietética;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3970;NUTRO;Serviço de Nutrologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3971;OFTALMO;Serviço de Oftalmologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3972;OTORRINO;Serviço de Otorrinolaringologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3973;PNEUMO;Serviço de Pneumologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3974;PROCTO;Serviço de Proctologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3975;REUMATO;Serviço de Reumatologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3976;ORTOPE;Serviço de Traumato-Ortopedia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3977;STD;Serviço de Treinamento e Desenvolvimento - DRH;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3978;URO;Serviço de Urologia;;;O;;;N;Y;;N;15/12/99;31/12/1840;N;N;;N
+3981;SERGER;Serviços Gerais;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3982;LIMPEZA;Setor de Limpeza;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3983;TRANSPO;Transportes;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3984;TRIAGEM;Triagem;;;O;;;N;N;;N;15/12/99;16/02/2000;N;N;;N
+3985;UCOR-8D;Un. Coronariana;;;W;8;;N;Y;;Y;15/12/99;31/12/1840;N;N;;N
+3986;UCC-8D;Un.Cir.Cardíaca/CTI Neuro;;;W;8;;N;Y;;Y;15/12/99;31/12/1840;N;N;;N
+3987;TRANSPL;Transplante de Medula Óssea;31;;E;;51;N;Y;;Y;15/12/99;31/12/1840;N;N;;N
+3988;UCIR;Unidades Cirúrgicas (Internação);;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3989;UCLI;Unidades Clínicas (Internação);;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3990;VIGI;Vigilância;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+3991;ZELA;Zeladoria;;;O;;;N;N;;N;15/12/99;31/12/1840;N;N;;N
+4048;MFAMP;SMFR - Reabilitação de Amputados;60;;E;;49;N;Y;;Y;06/01/2000;31/12/1840;Y;N;;N
+4049;MFNE1;SMFR - Reabilitação Neurologica I (Lesão do SNC);60;;E;;49;N;Y;;Y;06/01/2000;31/12/1840;Y;N;;N
+4050;MFNE2;SMFR - Reabilitação Neurologica II (Lesão Nervo Periférico);60;;E;;49;N;Y;;Y;06/01/2000;31/12/1840;Y;N;;N
+4051;MFRE1;SMFR - Reabilitação Ósteomioarticular I;60;;E;;49;N;Y;;Y;06/01/2000;31/12/1840;Y;N;;N
+4052;MFRE2;SMFR - Reabilitação Reumatológica II;60;;E;;49;N;Y;;Y;06/01/2000;31/12/1840;Y;N;;N
+4053;MFRES1;SMFR - Reabilitação Respiratória I (Obstrutiva);60;;E;;49;N;Y;;Y;06/01/2000;31/12/1840;Y;N;;N
+4055;MFRORT;SMFR - Reabilitação Ortopédica ;60;;E;;49;N;Y;;Y;06/01/2000;31/12/1840;Y;N;;N
+4056;MFCLINF;SMFR - Clínica de Linfedema ;60;;E;;49;N;Y;;Y;06/01/2000;31/12/1840;Y;N;;N
+4057;MFRES2;SMFR - Reabilitação Respiratória II (Restritiva);60;;E;;49;N;Y;;Y;06/01/2000;31/12/1840;Y;N;;N
+4070;EFIMU;Imunização e Testes - Enfermagem;99;;E;;44;N;Y;;N;12/01/2000;31/12/1840;N;N;;N
+4073;PMN;Posto Medicina Nuclear;;;W;Sub solo;;N;Y;;Y;13/01/2000;31/12/1840;N;N;;N
+4082;LMF;Laboratório Monitorização de Fármacos;58;;E;subsolo;50;N;Y;;Y;17/01/2000;31/12/1840;N;N;;N
+4087;GIURO;UroGinecologia;47;;E;;44;N;Y;;N;19/01/2000;31/12/1840;N;N;;N
+4093;MFELE;SMFR - Eletrotermoterapia/Cinesioterapia;60;;E;;49;N;Y;;Y;21/01/2000;31/12/1840;Y;N;;N
+4106;DUMMY;Indeterminado;;;E;;;N;N;;N;27/01/2000;31/12/1840;N;N;;N
+4115;GIDST;DST/AIDS - Ginecologia;47;;E;;44;N;Y;;N;31/01/2000;31/12/1840;N;N;;N
+4117;GICLIM;Climatério - Ginecologia;47;;E;;44;N;Y;;N;31/01/2000;31/12/1840;N;N;;N
+4165;CIRFIG;Cirurgia de Fígado;43;;E;;44;N;Y;;N;16/02/2000;31/12/1840;N;N;;N
+4168;MFDCLO;SMFR - Reabilitação da Dor Crônica;60;;E;;49;N;Y;;Y;17/02/2000;31/12/1840;Y;N;;N
+4219;EFESTO;Estomaterapia  - Enfermagem;99;;E;;44;N;Y;;N;09/03/2000;31/12/1840;N;N;;N
+4332;RMADO;Adolescente - Reumatologia;37;;E;;44;N;Y;;N;22/03/2000;31/12/1840;N;N;;N
+4363;OTGES;Sala de Gesso - Ortopedia;50;;E;;44;N;Y;;N;30/03/2000;31/12/1840;N;N;;N
+4385;CCIH;CCIH - Coordenação de Controle de Infecção hospitalar;;;O;;;N;Y;;N;05/04/2000;31/12/1840;N;N;;N
+4404;QI;Qualidade da informação;;;O;;;N;N;;N;10/04/2000;31/12/1840;N;N;;N
+4459;CTIDT;Cir.Toracica-IDT;41;;E;;44;N;Y;;N;24/04/2000;31/12/1840;N;N;;N
+4463;PTIDT;Pneumologia-IDT;36;;E;;44;N;Y;;N;25/04/2000;31/12/1840;N;N;;N
+4541;INCA;INCA;;;O;;69;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4542;SHERJ;SH-UERJ;;;O;;;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4543;SERUM;SERUM;;;O;;;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4544;HFAG;HFAG;;;O;;;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4545;HUGG;Hospital Universitário Gaffree Guinle - Unirio;;;O;;69;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4546;HNMD;Hospital Naval Marcílio Dias;;;O;;69;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4547;HMMC;HMMC;;;O;;;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4548;HMSA;HMSA;;;O;;;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4549;HGB;HGB - desativado;;;O;;;N;N;;N;18/05/2000;22/03/2012;N;N;;N
+4550;HGL;HGLAPA;;;O;;;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4551;HMPW;HMPW;;;O;;;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4552;HMC;Hospital Miguel Couto - HMC;;;O;;69;N;N;;N;18/05/2000;31/12/1840;N;N;;N
+4556;CONV;Convênios;;;E;;;N;N;;N;19/05/2000;31/12/1840;N;N;;N
+4557;ICCP;ICCP;;;E;;;N;N;;N;19/05/2000;31/12/1840;N;N;;N
+4559;ISO;Isolamento;;;E;;;N;N;;N;19/05/2000;31/12/1840;N;N;;N
+4560;ISOP;Isolamento Pneumo;;;E;;;N;N;;N;19/05/2000;31/12/1840;N;N;;N
+4561;EXDIAG;Exames dag.;;;E;;;N;N;;N;19/05/2000;31/12/1840;N;N;;N
+4562;UNINT;Unidade Intermediária;;;E;;;N;N;;N;19/05/2000;31/12/1840;N;N;;N
+4563;CIRPED;Cirurgia Pediátrica;;;E;;;N;N;;N;19/05/2000;31/12/1840;N;N;;N
+4581;PTASM;Asma - Pneumologia;36;;E;;44;N;Y;;N;22/05/2000;31/12/1840;N;N;;N
+4582;PTDPL;Doenças Pleurais - Pneumologia;36;;E;;44;N;Y;;N;22/05/2000;31/12/1840;N;N;;N
+4586;CPPARAL;Paralisia Facial - Cirurgia Plastica;40;;E;;44;N;Y;;N;23/05/2000;31/12/1840;N;N;;N
+4692;ASSC;Assessoria Comercial;;;O;;;N;N;;N;21/06/2000;31/12/1840;N;N;;N
+4693;SPA;INATIVO - PATCLI;;;O;;;N;N;;N;21/06/2000;26/06/2000;N;N;;N
+4737;ARQ;Arquivo e Protocolo;;;O;;;N;N;;N;23/06/2000;31/12/1840;N;N;;N
+4738;PABCAM;Banco de Células(PABCAM);;;O;;;N;N;;N;23/06/2000;31/12/1840;N;N;;N
+4739;CSESC;Chefia Serv.Enf.Saúde da Comunidade;;;O;;;N;N;;N;23/06/2000;31/12/1840;N;N;;N
+4740;COM;Comunicação;;;O;;;N;N;;N;23/06/2000;31/12/1840;N;N;;N
+4741;CAE;Coordenação das Atividades Educacionais;;;O;;;N;N;;N;23/06/2000;31/12/1840;N;N;;N
+4742;CPP;Coordenação de Projetos e Pesquisas;;;O;;;N;N;;N;23/06/2000;31/12/1840;N;N;;N
+4743;ENG;INATIVO - ENGENHAR;;;O;;;N;N;;N;23/06/2000;26/06/2000;N;N;;N
+4744;ANGIO;Serviço de Angiologia;;;O;;;N;Y;;N;23/06/2000;31/12/1840;N;N;;N
+4745;CARDIO;Serviço de Cardiologia;;;O;;;N;Y;;N;23/06/2000;31/12/1840;N;N;;N
+4746;SDIP;Serviço de Doenças Infec. e Parasit.;;;O;;;N;Y;;Y;23/06/2000;31/12/1840;N;N;;N
+4747;ENDO;Serviço de Endocrinologia;;;O;;;N;Y;;Y;23/06/2000;31/12/1840;N;N;;N
+4748;DERMATO;Serviço de Dermatologia;;;O;;;N;Y;;Y;23/06/2000;31/12/1840;N;N;;N
+4749;SCLIMED;Serviço de Clínica Médica;;;O;;;N;Y;;N;23/06/2000;31/12/1840;N;N;;N
+4750;PLAST;Serviço de Cirurgia Plástica;;;O;;;N;Y;;N;23/06/2000;31/12/1840;N;N;;N
+4751;TORAX;Serviço de Cirurgia Torácica;;;O;;;N;Y;;N;23/06/2000;31/12/1840;N;N;;N
+4752;VASC;Serviço de Cirurgia Vascular;;;O;;;N;Y;;N;23/06/2000;31/12/1840;N;N;;N
+4773;DAOCAO;Doação/Empréstimo;;;O;;;N;N;;N;24/06/2000;21/03/2012;N;N;;N
+4802;SMESEC;SME-Secretaria;61;;O;;;N;Y;;N;28/06/2000;31/12/1840;N;N;;N
+4810;TROCA;Troca;;;O;;;N;N;;N;29/06/2000;21/03/2012;N;N;;N
+4856;LAC;Laboratorio de Analises Clinicas;;;E;;57;N;Y;;N;05/07/2000;31/12/1840;N;N;;N
+4857;SAPC;Seção de Adm. Patologia Clínica;54;;O;;;N;N;;N;05/07/2000;31/12/1840;N;N;;N
+5003;HTD;Hemoterapia Dispensação;;;D;;53;N;N;;N;12/07/2000;31/12/1840;N;N;;N
+5257;HOD;Hospital Dia - Ambulatório;;;DS;;44;N;Y;;Y;25/07/2000;31/12/1840;N;N;;N
+5290;05DIR;05 Direita;;;E;;;N;N;;N;26/07/2000;29/05/2015;N;N;;N
+5291;05ESQ;05 Esquerda;;;E;;;N;N;;N;26/07/2000;29/05/2015;N;N;;N
+5292;08DIR;08 Direita;;;E;;;N;N;;N;26/07/2000;29/05/2015;N;N;;N
+5294;09DIR;09 Direita;66;;E;9º;54;N;Y;;Y;26/07/2000;29/05/2015;N;N;;N
+5295;09ESQ;09 Esquerda;;;E;;;N;N;;N;26/07/2000;29/05/2015;N;N;;N
+5296;11DIR;11 Direita;;;E;;;N;N;;N;26/07/2000;29/05/2015;N;N;;N
+5297;11ESQ;11 Esquerda;;;E;;;N;N;;N;26/07/2000;29/05/2015;N;N;;N
+5298;13DIR;13 Direita;;;E;;;N;N;;N;26/07/2000;29/05/2015;N;N;;N
+5299;13ESQ;13 Esquerda;;;E;;;N;N;;N;26/07/2000;29/05/2015;N;N;;N
+5300;GSN;Grupo de Suporte Nutricional;;;E;;;N;N;;N;26/07/2000;31/12/1840;N;N;;N
+5511;EMTN;EMTN - Equipe Multiprofissional de Terapia Nutricional;;;E;;;N;Y;;N;07/08/2000;31/12/1840;N;N;;N
+5717;HEMORIO;Hemo Rio;;;O;;;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5718;HLMS;Hospital da Lagoa;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5719;HGAMS;Hospital Geral do Andaraí - MS;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5720;HECC;Hospital Estadual Carlos Chagas;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5721;IEISS;Instituto Estadual de Infectologia São Sebastião;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5722;IECAC;Instituto Estadual de Cardiologia Aluísio de Castro;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5723;HEPII;Hospital Estadual Pedro II;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5724;HPW;Hospital Municipal Paulino Werneck;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5725;HMDC;Hospital Municipal  de Duque de Caxias;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5726;HCA;Hospital Central da Aeronáutica;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5727;HCE;Hospital Central do Exército;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5728;HUPE;Hospital Universitário Pedro Ernesto -  UERJ;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5729;DBM;UFRJ CCS Departamento de Bioquímica Médica;;;O;;68;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5730;IB;UFRJ CCS Instituto de Biofísica;;;O;;68;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5731;ME;UFRJ Maternidade Escola;;;O;;68;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5732;OU;UFRJ Universidade Federal do Rio de Janeiro;;;O;;68;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5733;INCAI;INCA I;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5734;INCAII;INCA II;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5735;INCAIII;INCA III;;;O;;69;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5736;OUTROS;OUTROS;;;O;;;N;N;;N;18/08/2000;31/12/1840;N;N;;N
+5794;IFCVIRAL;Carga Viral;28;;E;;44;N;Y;;N;21/08/2000;31/12/1840;N;N;;N
+5854;DISPOS;Dispensação Posto;;;O;;;N;N;;N;24/08/2000;31/12/1840;N;N;;N
+6302;MFTANUT;SMFR - Transplante Avaliação Nutricional e Motora;60;;E;;49;N;Y;;Y;14/09/2000;31/12/1840;Y;N;;N
+6612;SS9;Serviço Social - 9º  Andar;53;;E;9º;55;N;Y;;Y;26/05/99;31/12/1840;N;N;;N
+6751;SPPM;Serviço de Psiquiatria;;;O;;;N;Y;;N;03/10/2000;31/12/1840;N;N;;N
+7335;SUS;SUS- SISTEMA ÚNICO DE SAÚDE;;;E;;;N;N;;N;27/10/2000;31/12/1840;N;N;;N
+7592;MFTRAFI;SMFR - Transplante de Fígado;60;;E;;49;N;Y;;Y;06/11/2000;31/12/1840;Y;N;;N
+7593;MFTRARIN;SMFR - Transplante de Pancreas;60;;E;;49;N;Y;;Y;06/11/2000;31/12/1840;Y;N;;N
+7619;AP31;CAP 3.1;;;E;;;N;N;;N;07/11/2000;31/12/1840;N;N;;N
+8386;NEPSI;NeuroPsicologia;34;;E;;44;N;Y;;N;08/12/2000;31/12/1840;N;N;;N
+9748;SG;Saúde da Mulher- SESSAT;80;;E;;58;N;Y;;N;26/01/2001;31/12/1840;N;N;;N
+9895;MFCIN;SMFR - Cinesioterapia;60;;E;;49;N;Y;;Y;31/01/2001;31/12/1840;Y;N;;N
+9896;MFMECA;SMFR - Mecanoterapia;60;;E;;49;N;Y;;Y;31/01/2001;31/12/1840;Y;N;;N
+9955;MFISIOT;SMFR - Fisioterapia;60;;E;;49;N;Y;;Y;02/02/2001;31/12/1840;Y;N;;N
+10101;INALO;Inaloterapia;;;O;;;N;N;;N;07/02/2001;31/12/1840;N;N;;N
+10368;SMFRFO;SMFR - Fonoaudiologia;60;;E;;49;N;Y;;Y;16/02/2001;31/12/1840;Y;N;;N
+11465;LCCMO;LCCMO- Laboratório de Cultura e Criopreservação de Medula Ossea;129;;E;4 andar;51;N;Y;;Y;15/03/2001;31/12/1840;N;N;;N
+11820;CUM;Central Única de Marcação;1;;E;;44;N;Y;;N;20/03/2001;31/12/1840;N;N;;N
+12626;MFPCO;SMFR - Reabilitação Ósteomioarticular II;60;;E;;49;N;Y;;Y;04/04/2001;31/12/1840;Y;N;;N
+12945;NFPTR;Pré Transplante Renal - Nefrologia;33;;E;;44;N;Y;;N;09/04/2001;31/12/1840;N;N;;N
+12946;NFPTR2;Pós Transplante Renal - Nefrologia;33;;E;;44;N;Y;;N;09/04/2001;31/12/1840;N;N;;N
+12947;ENFPRO;Procedimentos de Enfermagem;99;;E;;44;N;Y;;N;09/04/2001;31/12/1840;N;N;;N
+13011;SREUM;SME-Reumatologia;37;;E;;46;N;Y;;Y;10/04/2001;31/12/1840;N;N;;N
+13531;ADOL;Adolescente;;;E;;;N;N;;N;18/04/2001;31/12/1840;N;N;;N
+13533;DPNF;Hospital Dia - Diálise Peritoneal;33;;E;Ambulatório;64;N;Y;;Y;18/04/2001;31/12/1840;N;N;;N
+14166;PCTH;Programa de Controle da Tuberculose Hospitalar;;;E;;;N;N;;N;27/04/2001;31/12/1840;N;N;;N
+14588;COOP;Cooperas;;;W;11º andar;;N;N;2;N;03/05/2001;31/12/1840;N;N;;N
+15371;SCLMED;SME-Clínica Médica;38;;E;;46;N;Y;;Y;14/05/2001;31/12/1840;N;N;;N
+15950;CONT;Controle Interno;;;O;;;N;N;;N;22/05/2001;31/12/1840;N;N;;N
+16465;DMVD;Patologia Vulvar - Dermatologia;27;;E;;44;N;Y;;N;29/05/2001;31/12/1840;N;N;;N
+16466;DPAIDS;AIDS - Pesquisa (Infectologia);28;;E;;44;N;Y;;N;29/05/2001;31/12/1840;N;N;;N
+16544;OTQUAD;Quadril  - Ortopedia;50;;E;;44;N;Y;;N;30/05/2001;31/12/1840;N;N;;N
+16545;OTPE;Pé - Ortopedia;50;;E;;44;N;Y;;N;30/05/2001;31/12/1840;N;N;;N
+16546;OTCOLUNA;Coluna - Ortopedia;50;;E;;44;N;Y;;N;30/05/2001;31/12/1840;N;N;;N
+16547;OTJOEL;Joelho - Ortopedia;50;;E;;44;N;Y;;N;30/05/2001;31/12/1840;N;N;;N
+16548;OTOMB;Ombro - Ortopedia;50;;E;;44;N;Y;;N;30/05/2001;31/12/1840;N;N;;N
+16549;OTMAO;Mão - Ortopedia;50;;E;;44;N;Y;;N;30/05/2001;31/12/1840;N;N;;N
+16703;OTOMBJOE;Ombro/Joelho - Ortopedia;50;;E;;44;N;Y;;N;01/06/2001;31/12/1840;N;N;;N
+17079;RADINT;Radiologia Intervencionista;57;;E;;48;N;Y;;Y;06/06/2001;31/12/1840;N;N;;N
+17080;EDQP;Quarto Terapêutico - Medicina Nuclear;29;;E;;44;N;Y;;N;06/06/2001;31/12/1840;N;N;;N
+17156;SSAIDS;AIDS - Serviço Social;53;;E;Ambulatorio;44;N;Y;;N;07/06/2001;31/12/1840;N;N;;N
+17157;SSTRANS;Transplante de Fígado - Serviço Social;53;;E;Ambulatorio;44;N;Y;;N;07/06/2001;31/12/1840;N;N;;N
+17158;SSLUP;Lupus - Serviço Social;53;;E;Ambulatorio;44;N;Y;;N;07/06/2001;31/12/1840;N;N;;N
+17159;SSCLI;Climatério - Serviço Social;53;;E;Ambulatorio;44;N;Y;;N;07/06/2001;31/12/1840;N;N;;N
+17236;MFPDIAB;SMFR - Reabilitação de Pé Diabetico;60;;E;;49;N;Y;;Y;08/06/2001;31/12/1840;Y;N;;N
+18613;MFAFUN;SMFR - Avaliação Funcional;60;;E;;49;N;Y;;Y;28/06/2001;31/12/1840;Y;N;;N
+18614;DPTRAHE;Transplante de Fígado - Infectologia;28;;E;;44;N;Y;;N;28/06/2001;31/12/1840;N;N;;N
+18615;CHEFIAAM;Chefia do Ambulatorio;;;E;;;N;N;;N;28/06/2001;31/12/1840;N;N;;N
+18616;DMULP;Ulcera de Perna - Dermatologia;27;;E;;44;N;Y;;N;28/06/2001;31/12/1840;N;N;;N
+20257;MFHIPOTI;SMFR - Disfunsão Musculo Esqueletico de Causa Metabolica;60;;E;;49;N;Y;;Y;23/07/2001;31/12/1840;Y;N;;N
+21359;CVEND;Cirurgia Vascular - EndoVascular;45;;E;;44;N;Y;;N;08/08/2001;31/12/1840;N;N;;N
+21850;GIPLU;Prurido (Colpites) - Ginecologia ;47;;E;;44;N;Y;;N;15/08/2001;31/12/1840;N;N;;N
+22205;MFSEGPA;SMFR - Reabilitação de Segmento Pos Alta;;;E;;49;N;Y;;Y;20/08/2001;31/12/1840;Y;N;;N
+22492;OCRAD;Onco-Radioterapia;134;;E;;61;N;Y;;Y;24/08/2001;31/12/1840;N;N;;N
+22493;CGPTRANS;Pós e Pré Transplante de Fígado - Cirurgia Geral;43;;E;;44;N;Y;;N;24/08/2001;31/12/1840;N;N;;N
+24555;SS10;Serviço Social - 10º andar;53;;E;10º ;55;N;Y;;Y;20/09/2001;31/12/1840;N;N;;N
+24556;SS11;Serviço Social - 11º andar;53;;E;11º;55;N;Y;;Y;20/09/2001;31/12/1840;N;N;;N
+25968;CITRJ;Centro de Intoxicações;;;O;;;N;N;;N;05/10/2001;31/12/1840;N;N;;N
+28280;SEPREM;Setor de Preparo de Medicações;;;W;5º andar;;N;N;2;N;29/10/2001;31/12/1840;N;N;;N
+29172;EFAIDS;AIDS - Enfermagem;99;;E;;44;N;Y;;N;07/11/2001;31/12/1840;N;N;;N
+29366;10DIR;10 Direita;66;;E;10º andar;;N;Y;;Y;09/11/2001;29/05/2015;N;N;;N
+29367;10ESQ;10 Esquerda;;;E;;;N;Y;;Y;09/11/2001;29/05/2015;N;N;;N
+31794;FTRANS;Farmácia de Transplante;;;O;;;N;N;;N;04/12/2001;31/12/1840;N;N;;N
+33941;MM;Mamografia;57;;E;;48;N;Y;;Y;26/12/2001;31/12/1840;N;N;;N
+33942;CAIP;CAIPE;;;E;;;N;N;;N;26/12/2001;31/12/1840;N;N;;N
+35311;GEVHC;Vacinação Hepatite C - Gastro;30;;E;;44;N;Y;;N;09/01/2002;31/12/1840;N;N;;N
+38174;DIPDEN;DENGUE - Infectologia;28;;E;Ambulatorio;44;N;Y;;N;07/02/2002;31/12/1840;N;N;;N
+41434;09F;09F;;;W;9;;N;Y;;Y;07/03/2002;31/12/1840;N;N;;N
+42183;MFRES3;SMFR - Reabilitação Respiratória III (DPOC);60;;E;;49;N;Y;;Y;13/03/2002;31/12/1840;Y;N;;N
+44858;EEAN;Escola de Enfermagem Ana Neri;;;W;;;N;N;2;N;04/04/2002;31/12/1840;N;N;;N
+52550;GEINT;Doença Intestinal - Gastroenterologia;30;;E;9 andar;44;N;Y;;N;05/06/2002;31/12/1840;N;N;;N
+52801;OTINF;Ortopedia Infantil;50;;E;10 andar;44;N;Y;;N;07/06/2002;31/12/1840;N;N;;N
+54068;TSTLOC;TesteLocal;;;O;;;N;N;;N;17/06/2002;22/03/2012;N;N;;N
+55838;RAMB;Reserva de Projeto;;;E;;;N;N;;N;01/07/2002;31/12/1840;N;N;;N
+62124;MFGERI;SMFR - Geriatria;60;;E;;49;N;Y;;Y;19/08/2002;31/12/1840;Y;N;;N
+62259;07F;07F;127;;W;7;;N;Y;2;Y;20/08/2002;31/12/1840;N;N;;N
+62395;SDER;Dermatologia inativo;27;;E;;;N;Y;;N;21/08/2002;31/12/1840;N;N;;N
+63310;ADMSEM;Admin-Emergência;132;;O;Subsolo;54;N;N;2;N;28/08/2002;31/12/1840;N;N;;N
+64125;ADDIPADO;Infectologia Adolescente;28;;E;Ambulatório;44;N;Y;;N;03/09/2002;31/12/1840;N;N;;N
+66854;RADIOTER;Radioterapia;134;;E;;61;N;Y;;Y;23/09/2002;31/12/1840;N;N;;N
+68225;SFTACU;SFT - Acupuntura;98;;E;2 andar;59;N;Y;;Y;03/10/2002;31/12/1840;N;N;;N
+68226;SFTGER;SFT - Geral;98;;E;2 andar;59;N;Y;;Y;03/10/2002;31/12/1840;N;N;;N
+68227;SFTNEUC;SFT - Neuro Central/Parkison/Mielopatia c/HTLV-1;98;;E;2 andar;59;N;Y;;Y;03/10/2002;31/12/1840;N;N;;N
+68228;SFTCMAO;SFT - Terapia da Mão;98;;E;2 andar;59;N;Y;;Y;03/10/2002;31/12/1840;N;N;;N
+68229;SFTONMA;SFT - Onco-Neo-Mamaria;98;;E;2 andar;59;N;Y;;Y;03/10/2002;31/12/1840;N;N;;N
+68230;SFTOTR;SFT - Orto/Trauma/Reumato;98;;E;2 andar;59;N;Y;;Y;03/10/2002;31/12/1840;N;N;;N
+68231;SFTRES;SFT - Respiratória Geral;98;;E;2 andar;59;N;Y;;Y;03/10/2002;31/12/1840;N;N;;N
+68232;SFTHEP;SFT - Transplante Hepático;98;;E;2 andar;59;N;Y;;Y;03/10/2002;31/12/1840;N;N;;N
+68795;ELETR;Eletrofisiologia;26;;E;;48;N;Y;;N;07/10/2002;31/12/1840;N;N;;N
+68935;CGBAR;PROCIBA - Cirurgia Geral;43;;E;;44;N;Y;;Y;08/10/2002;31/12/1840;N;N;;N
+73878;08F;08F - desativado;22;;W;8;;N;Y;2;Y;12/11/2002;02/05/2005;N;N;;N
+83199;SSPADI;PADI - Prog.  Assist. Domiciliar Interdisciplinar;53;;E;Ambulatorio;75;N;Y;;Y;15/01/2003;31/12/1840;N;N;;N
+85464;OFNEU;Neuro-Oftalmologia;48;;E;;44;N;Y;;N;30/01/2003;31/12/1840;N;N;;N
+85465;OFEST;Estrabismo  -  Oftalmologia;48;;E;;44;N;Y;;N;30/01/2003;31/12/1840;N;N;;N
+85466;OFLENC;Lente de Contato  -  Oftalmologia;48;;E;;44;N;Y;;N;30/01/2003;31/12/1840;N;N;;N
+85467;OFVSUB;Visão Sub-normal - Oftalmologia;48;;E;;44;N;Y;;N;30/01/2003;31/12/1840;N;N;;N
+89296;LTMO;Laboratorio de Transplante de Medula Ossea;;;E;;;N;N;;N;21/02/2003;31/12/1840;N;N;;N
+94901;TCAO;Toxicologia Clínica Ambiental e  Ocupacional ;1;;E;;44;N;Y;;N;25/03/2003;31/12/1840;N;N;;N
+97632;SPP;Serviço de Planos e Projetos;;;O;;;N;N;;N;09/04/2003;31/12/1840;N;N;;N
+99138;CMTRHEP;Transplante de Fígado - Hepatologia;38;;E;primeiro andar;44;N;Y;;N;16/04/2003;31/12/1840;N;N;;N
+109606;MFRBAR;SMFR - Cirurgia Bariatrica;60;;E;;49;N;Y;;Y;11/06/2003;31/12/1840;Y;N;;N
+109801;SFTJOE;SFT - Joelho e Coluna;98;;E;2 andar;59;N;Y;;Y;11/06/2003;31/12/1840;N;N;;N
+119127;ONCHEMA;Onco-Hematologia;31;;E;;44;N;Y;;N;23/07/2003;31/12/1840;N;N;;N
+127327;LMULTI;Laboratório Multidisciplinar de Pesquisa;;;E;;;N;N;;N;27/08/2003;31/12/1840;N;N;;N
+130183;LMB;Laboratorio de Micobacteriologia;;;E;;57;N;Y;;N;08/09/2003;31/12/1840;N;N;;N
+132801;HGB1;Hospital Federal de Bonsucesso;;;O;;69;N;N;;N;19/09/2003;31/12/1840;N;N;;N
+153804;CIC;Comissão de Investigação Científica;;;E;;;N;N;;N;04/12/2003;31/12/1840;N;N;;N
+175220;DESUSO;estoque para mat. em desuso;;;O;;;N;N;;N;05/02/2004;31/12/1840;N;N;;N
+175602;GABDEG;Gabinete da DEG;;;E;;;N;N;;N;06/02/2004;31/12/1840;N;N;;N
+197296;LMD;Laboratório de Motilidade Digestiva - SME-Gastroenterologia;30;;E;;46;N;Y;;Y;02/04/2004;31/12/1840;N;N;;N
+212326;UROLT;Litotripsia - Urologia;1;;E;;44;N;Y;;N;10/05/2004;31/12/1840;N;N;;N
+213123;ODSB;Saúde Bucal Especial - Odontologia;1;;E;;44;N;Y;;N;12/05/2004;31/12/1840;N;N;;N
+216325;SPC;Serviço de Patologia Clínica;;;E;;;N;N;;N;20/05/2004;31/12/1840;N;N;;N
+216326;DVST;DVST - UFRJ;1;;E;;;N;Y;;N;20/05/2004;31/12/1840;N;N;;N
+216725;NTTRFI;Transplante de Fígado - Nutrição;1;;E;;44;N;Y;;N;21/05/2004;31/12/1840;N;N;;N
+231956;EFGERDE;Geriatria - Demência - Enfermagem;1;;E;;44;N;Y;;N;28/06/2004;31/12/1840;N;N;;N
+234792;SNETT;SME-NETT (Nucleo de Estudo e Tratamento do Tabagismo)  Pneumologia;61;;E;;46;N;Y;;Y;05/07/2004;31/12/1840;N;N;;N
+236013;UPT;Unidade de Pesquisa em Tuberculose;;;E;;44;N;N;;N;08/07/2004;31/12/1840;N;N;;N
+246374;CLDIAB;Diabetes - Clínica Médica;38;;E;;44;N;Y;;N;02/08/2004;31/12/1840;N;N;;N
+247629;SFTGI;SFT - Ginecologia;98;;E;;59;N;Y;;Y;05/08/2004;31/12/1840;N;N;;N
+268270;CTICIR;CTI-Cirúrgico;63;;W;13;54;N;Y;2;Y;23/09/2004;31/12/1840;N;N;;N
+268271;CTICLIN;CTI-Clínico;63;;W;13;54;N;Y;2;Y;23/09/2004;31/12/1840;N;N;;N
+272897;URFEM;Urologia Feminino;1;;E;;44;N;Y;;N;04/10/2004;31/12/1840;N;N;;N
+290984;CUIPAL;Cuidados Paliativos;1;;E;;44;N;Y;;N;16/11/2004;31/12/1840;N;N;;N
+334362;FABA;Faculdade Bezerra de Araújo;;;O;;54;N;N;2;N;28/02/2005;31/12/1840;N;N;;N
+341330;CTRANSP;Coordenação de Transplantes;;;O;;;N;N;;N;14/05/2005;31/12/1840;N;N;;N
+344112;SISRDIP;SISREG - DIP;;;E;;;N;N;;N;22/03/2005;31/12/1840;N;N;;N
+344113;SISORT;SISREG - ORT;;;E;;;N;N;;N;22/03/2005;31/12/1840;N;N;;N
+344114;SISCG;SISREG - CG;;;E;;;N;N;;N;22/03/2005;31/12/1840;N;N;;N
+344115;SISCTI;SISREG - CTI;;;E;;;N;N;;N;22/03/2005;31/12/1840;N;N;;N
+354411;NEFRO;07A;;;W;7;;N;Y;;Y;13/04/2005;31/12/1840;N;N;;N
+360100;AMB1;Ambulatório Enfermagem (1º andar);1;;E;;;N;N;;N;25/04/2005;31/12/1840;N;N;;N
+360118;CDADO;Adolescente - Cardiologia;1;;E;;44;N;Y;;N;25/04/2005;31/12/1840;N;N;;N
+360119;PNTAB;Tabagismo - Pneumologia;1;;E;;44;N;Y;;N;25/04/2005;31/12/1840;N;N;;N
+363481;HM-8F;08F 02;;;W;8;;N;Y;2;Y;02/05/2005;31/12/1840;N;N;;N
+363482;TMO;08F 01;;;W;8;;N;Y;2;Y;02/05/2005;31/12/1840;N;N;;N
+373554;SISCM;SISREG - CM;;;E;;;N;N;;N;23/05/2005;31/12/1840;N;N;;N
+380320;SEB;Seção de Eletrônica e Biomédica;;;O;;;N;N;;N;06/06/2005;31/12/1840;N;N;;N
+380321;SEI;Seção de Equipamentos e Instalações;;;O;;;N;N;;N;06/06/2005;31/12/1840;N;N;;N
+380322;SCE;Seção de Conservação do Edifício;;;O;;;N;N;;N;06/06/2005;31/12/1840;N;N;;N
+419146;FAC;Farmácia Central;;;D;;;N;N;;N;23/08/2005;31/12/1840;N;N;;N
+423073;SSCH;Serviço Social ;;;E;;55;N;Y;;N;01/09/2005;31/12/1840;N;N;;N
+425530;SEDEM;SEDEM;;;O;;;N;N;;N;06/09/2005;31/12/1840;N;N;;N
+429470;IDT;IDT - Instituto de Doenças do Torax   UFRJ;;;O;;68;N;N;;N;14/09/2005;31/12/1840;N;N;;N
+436369;CDP;Coordenação de Políticas Institucionais;;;O;;;N;N;;N;28/09/2005;31/12/1840;N;N;;N
+437367;BIBHU;Biblioteca do HUCFF;;;O;;;N;N;;N;30/09/2005;31/12/1840;N;N;;N
+439354;SEROUPA;Seção de Rouparia - DAG;;;O;;;N;N;;N;04/10/2005;31/12/1840;N;N;;N
+439355;CTICONV;CTI-Convênio;63;;W;13;54;N;Y;2;Y;04/10/2005;31/12/1840;N;N;;N
+439356;DRHSAP;Serviço de Administração de Pessoal (DRH);;;O;;;N;N;;N;04/10/2005;31/12/1840;N;N;;N
+439857;SERVONC;Serviço de Oncologia;;;O;;;N;Y;;N;05/10/2005;31/12/1840;N;N;;N
+439858;SLC;Serviço de Licitação e Contrato;;;O;;;N;N;;N;05/10/2005;31/12/1840;N;N;;N
+439859;CEP;Comitê de Ética em Pesquisa;;;O;;;N;N;;N;05/10/2005;31/12/1840;N;N;;N
+439860;CIBA;Cirurgia Bariátrica;;;E;;;N;N;;N;05/10/2005;31/12/1840;N;N;;N
+440362;07A;07A - desativado;;;W;7;;N;Y;;Y;06/10/2005;04/01/2006;N;N;;N
+440363;07B;07B;;;W;7;;N;Y;;Y;06/10/2005;31/12/1840;N;N;;N
+440364;CCULT;Centro Cultural  ;;;O;;;N;N;;N;06/10/2005;31/12/1840;N;N;;N
+440365;LBIOMOL;Laboratório de Biologia Molecular;;;E;;57;N;Y;;N;06/10/2005;31/12/1840;N;N;;N
+440863;LPDIP;Laboratorio de Pesquisa DIP;;;E;;;N;N;;N;07/10/2005;31/12/1840;N;N;;N
+440864;CORDGERR;Gerencia de Risco - Direção Adjunta;;;O;;;N;N;;N;07/10/2005;31/12/1840;N;N;;N
+440865;ANCC;Anestesiologia - Centro Cirurgico;;;O;;;N;N;;N;07/10/2005;31/12/1840;N;N;;N
+443843;CONVFAT;Convênios - Faturamento;;;O;;;N;N;;N;13/10/2005;31/12/1840;N;N;;N
+443844;OUV;Ouvidoria;;;E;;;N;N;;N;13/10/2005;31/12/1840;N;N;;N
+444342;SERCO;Serviço de Cirurgia Oral;;;O;;;N;Y;;N;14/10/2005;31/12/1840;N;N;;N
+444343;COMEIP;COMEIP - Internação;;;E;5º E 11;;N;Y;;N;14/10/2005;31/12/1840;N;N;;N
+446349;SOM;Serviço de Operação e Manutenção - DEG;;;O;;;N;N;;N;18/10/2005;31/12/1840;N;N;;N
+446853;IDTUPC;IDT-Unidade de Pesquisa Clínica;;;O;;;N;N;;N;19/10/2005;31/12/1840;N;N;;N
+446854;FMCLIN;Dep Clinica Medica - FM;;;O;;;N;N;;N;19/10/2005;31/12/1840;N;N;;N
+447852;SERVCARD;Serviço de Cirurgia Cardíaca;;;O;;;N;Y;;N;21/10/2005;31/12/1840;N;N;;N
+447853;NUDEN;NUDEN-Nucleo Administrativo da DEN;;;;;;N;N;;N;21/10/2005;31/12/1840;N;N;;N
+453330;SECLDIP;Secretaria do Laboratorio em DIP;;;;;;N;N;;N;01/11/2005;31/12/1840;N;N;;N
+453331;NPC;Nucleo de Pesquisa em Cancer;;;;;;N;N;;N;01/11/2005;31/12/1840;N;N;;N
+453332;CCP;Coordenação das Comissões Permanentes;;;;;;N;N;;N;01/11/2005;31/12/1840;N;N;;N
+457862;SEPATRI;Seção de Patrimônio - DAG;;;O;;;N;N;;N;10/11/2005;31/12/1840;N;N;;N
+457863;FAMANIP;Farmácia Manipulação;;;O;;;N;N;;N;10/11/2005;31/12/1840;N;N;;N
+461405;LTECC;Laboratório de Tecido Conjuntivo;;;E;;;N;N;;N;17/11/2005;31/12/1840;N;N;;N
+461406;LHEMOS;Laboratorio de Hemostasia;;;E;;57;N;Y;;N;17/11/2005;31/12/1840;N;N;;N
+464449;ASSJUR;Assessoria Jurídica;;;O;;;N;N;;N;23/11/2005;31/12/1840;N;N;;N
+465474;POSGDIP;Pos Graduação DIP;;;O;;;N;N;;N;25/11/2005;31/12/1840;N;N;;N
+476152;NFHEMO;Hospital Dia - Hemodiálise;33;;E;7;;N;Y;;Y;16/12/2005;31/05/2022;N;N;;N
+479215;AAL;Assessoria Técnica;;;O;;;N;N;;N;22/12/2005;31/12/1840;N;N;;N
+488414;SUDPO;SME-Unidade de Doenças Pulmonares Obstrutivas - Pneumologia;36;;E;4;46;N;Y;;Y;09/01/2006;31/12/1840;N;N;;N
+492502;PROQUAL;Programa da Qualidade;;;O;;;N;N;;N;17/01/2006;31/12/1840;N;N;;N
+492503;SETESO;Seção de Tesouraria - DFN;;;O;;;N;N;;N;17/01/2006;31/12/1840;N;N;;N
+493015;PATMIC;Micologia - SPC;;;;;;N;N;;N;18/01/2006;31/12/1840;N;N;;N
+497110;LMCM;Laboratorio de Marcação de Celulas e Moleculas;;;O;;;N;N;;N;26/01/2006;31/12/1840;N;N;;N
+499794;SEAV;SEAV - Serviço de Epidemiologia e Avaliação;86;;E;5 andar;;N;Y;;N;31/01/2006;31/12/1840;N;N;;N
+499795;SPCPUL;SME-Pesquisa Clínica em Pneumologia;36;;E;4;46;N;Y;;Y;31/01/2006;31/12/1840;N;N;;N
+501448;ASSPL;Assessoria de Planejamento;;;O;;;N;N;;N;03/02/2006;31/12/1840;N;N;;N
+504233;SHIPEA;SME-Hipertensão Arterial;;;E;;46;N;N;;N;08/02/2006;31/12/1840;N;N;;N
+507051;CVA;Centro de Vacinação do Adulto;;;O;;;N;N;;N;13/02/2006;31/12/1840;N;N;;N
+508176;MFDOROB;SMFR - Dor em Obsidade;60;;E;2;49;N;Y;;Y;15/02/2006;31/12/1840;Y;N;;N
+511564;CTIPALTA;Pós Alta do CTI  - Medicina Intensa;63;;E;;44;N;Y;;N;21/02/2006;31/12/1840;N;N;;N
+512133;HMHCLIN;Hematologia Clínica;31;;E;;70;N;Y;;Y;22/02/2006;31/12/1840;N;N;;N
+514392;NUADEN;Nucleo Administrativo DEN;;;;;;N;N;;N;02/03/2006;31/12/1840;N;N;;N
+514393;MFISIODV;SMFR - Fisioterapia/DVTS;60;;E;;49;N;Y;;Y;16/03/2006;31/12/1840;Y;N;;N
+514394;MFCINLIV;SMFR - Cinesioterapia Livre;60;;E;;49;N;Y;;Y;30/03/2006;31/12/1840;Y;N;;N
+514397;SSHAN;Hanseniase  -  Serviço Social;53;;E;;44;N;Y;;N;15/05/2006;31/12/1840;N;N;;N
+514399;SERVANES;Serviço de Anestesiologia;52;;E;;;N;Y;;N;06/06/2006;31/12/1840;N;N;;N
+514401;PTUNI;Unidade de Ensaios Clínicos - Pneumologia;1;;E;;44;N;Y;;N;26/06/2006;31/12/1840;N;N;;N
+514402;PORTA;Portaria;;;O;;;N;N;;N;16/08/2006;31/12/1840;N;N;;N
+514403;RECPC3;Recepção (Pat. Clinica 3º andar);;;E;;;N;N;;N;22/08/2006;31/12/1840;N;N;;N
+514404;SESTPC;Setor de Esterilização (Pat. Clin.);;;E;;57;N;Y;;N;22/08/2006;31/12/1840;N;N;;N
+514405;BIBIDT;Biblioteca do IDT;;;O;;;N;N;;N;23/08/2006;31/12/1840;N;N;;N
+514406;PNHIPULM;Hipertensão Arterial Pulmonar - Pneumologia;38;;E;;44;N;Y;;N;29/08/2006;31/12/1840;N;N;;N
+514410;FACMED;Faculdade de Medicina;;;E;;68;N;N;;N;02/10/2006;31/12/1840;N;N;;N
+514411;FNLEC;Laboratório de Exames Complementares - Fonoaudiologia;133;;E;3º;65;N;Y;;Y;25/10/2006;31/12/1840;N;N;;N
+514412;SFTHANS;SFT - Hanseniase;98;;E;2 andar;59;N;Y;;Y;01/12/2006;31/12/1840;N;N;;N
+514413;DPPRGAC;Programa de Acolhimento de Infectologia;28;;E;;44;N;Y;;N;18/12/2006;31/12/1840;N;N;;N
+514414;SFONO;Serviço de Fonoaudiologia;133;;E;;65;N;Y;;Y;03/01/2007;31/12/1840;N;N;;N
+514418;MFHTLVI;SMFR - HTLV I ;60;;E;;49;N;Y;;Y;13/02/2007;31/12/1840;Y;N;;N
+514423;DPHOPS;Hospital Dia - DIP;28;;E;;62;N;Y;;Y;08/03/2007;31/12/1840;N;N;;N
+516019;LIPAM;Laboratorio de Infectologia e Parasitologia Molecular;;;E;;;N;N;;N;04/04/2007;31/12/1840;N;N;;N
+516020;SFTORT2;SFT - Trauma/Orto membro superior e coluna;98;;E;2º andar;59;N;Y;;Y;13/04/2007;31/12/1840;N;N;;N
+516021;SFTORT3;SFT - Orto/Trauma (quadril);98;;E;2º andar;59;N;Y;;Y;13/04/2007;31/12/1840;N;N;;N
+516022;CTDEN;Coordenação Técnica - DEN;;;O;;;N;N;;N;26/04/2007;31/12/1840;N;N;;N
+516025;RPA;Recuperação Pós-Anestésico;;;OP;;;N;N;;N;31/05/2007;31/12/1840;N;N;;N
+516026;ENSCLI;Ensaio Clínico - Imunologia;32;;E;;44;N;Y;;N;05/07/2007;31/12/1840;N;N;;N
+516027;SFTUG;SFT - Uro-Ginecologia;98;;E;2º andar;59;N;Y;;Y;06/07/2007;31/12/1840;N;N;;N
+516028;9B;Maria Cecília Pereira Bossa;;;;;;N;N;;N;08/07/2007;31/12/1840;N;N;;N
+516029;CPTC;Comissão de Pesquisa de Terapia Celular ;;;O;;;N;N;;N;13/07/2007;31/12/1840;N;N;;N
+516030;RPDA;Projeto de Saúde Auditiva - Otorrino;133;;E;;44;N;Y;;N;02/08/2007;31/12/1840;N;N;;N
+516031;SFTPUL;SFT - Transplante Pulmonar;98;;E;2º andar;59;N;Y;;Y;06/08/2007;31/12/1840;N;N;;N
+516033;SFTCP;SFT - Cuidados Paliativos;;;E;;59;N;Y;;Y;07/08/2007;31/12/1840;N;N;;N
+516038;SFTNHAN;SFT - Neuro/Periférica (Hanseniase);98;;E;2 andar;59;N;Y;;Y;27/08/2007;31/12/1840;N;N;;N
+516039;AIMPRE;Assessoria de Imprensa;;;O;;;N;N;;N;31/08/2007;31/12/1840;N;N;;N
+516040;SUPR;Superintendência Geral;;;O;;;N;N;;N;17/09/2007;31/12/1840;N;N;;N
+516041;UROFISIO;UroFisioterapia - Urologia;39;;E;;44;N;Y;;N;25/09/2007;31/12/1840;N;N;;N
+516043;GIENDO;Ginecologia Endócrina  - Ginecologia;47;;E;;44;N;Y;;N;02/10/2007;31/12/1840;N;N;;N
+516044;CATNEP;Comissão de Avaliação e Terapia Nutricional Enteral e Parenteral ;;;O;;;N;N;;N;10/10/2007;31/12/1840;N;N;;N
+516046;SSGERDE;Geriatria - Demência - Serviço Social;53;;E;;44;N;N;;Y;22/10/2007;31/12/1840;N;N;;N
+516047;CADM;Coordenadoria Administrativa;;;O;;;N;N;;N;23/10/2007;31/12/1840;N;N;;N
+516048;ASSDG;Assessoria DG;;;O;;;N;N;;N;23/10/2007;31/12/1840;N;N;;N
+516049;DPQ;Divisão de Pesquisa - DPq;;;O;;;N;N;;N;24/10/2007;31/12/1840;N;N;;N
+516050;RADIO;Serviço de Radiodiagnóstico;;;O;;;N;Y;;N;30/11/2007;31/12/1840;N;N;;N
+516051;ISOCCIH;Isolamento CCIH;;;E;;;N;N;;N;10/12/2007;31/12/1840;N;N;;N
+516052;ISOPSI;Isolamento Psiquiatria;;;E;;;N;N;;N;10/12/2007;31/12/1840;N;N;;N
+516054;CIRPEDB;Cir. Ped. Berço;;;E;;;N;N;;N;10/12/2007;31/12/1840;N;N;;N
+516055;CIRPEDL;Cir. Ped. Leito;;;E;;;N;N;;N;10/12/2007;31/12/1840;N;N;;N
+516056;NEEEG;Neurologia Video-EEG;;;E;;71;N;Y;;N;10/12/2007;31/12/1840;N;N;;N
+516057;NEFROSB;Nefro Stand by;;;E;;;N;N;;N;11/12/2007;31/12/1840;N;N;;N
+516060;PBF;Centro de Bioequivalência (Programa de Biofarmácia e Farmacometria);;;O;6;;N;N;;N;16/01/2008;31/12/1840;N;N;;N
+516061;RADIOT;Serviço de Radioterapia;;;O;;;N;Y;;N;22/01/2008;31/12/1840;N;N;;N
+516070;COMPREG;Setor de Pregão;;;O;;;N;N;;N;03/03/2008;31/12/1840;N;N;;N
+516082;SFTICARD;SFT-  Insuficiência Cardiaca;;;E;;59;N;Y;;Y;10/03/2008;31/12/1840;N;N;;N
+516083;DOSSEA;Densitometria Óssea;29;;E;7 andar;82;N;Y;;Y;11/03/2008;31/12/1840;N;N;;N
+516084;RSM;Ressonância Magnética;57;;E;Sub solo;48;N;Y;;Y;12/03/2008;31/12/1840;N;N;;N
+516085;CDIC;Insuficiência Cardiaca - Cardiologia;26;;E;1 andar;44;N;Y;;N;13/03/2008;31/12/1840;N;N;;N
+516092;DPINDETE;Projeto INDETEC - Infectologia;28;;E;;44;N;Y;;N;05/05/2008;31/12/1840;N;N;;N
+516093;SFTBAR;SFT - Respiratória na Obesidade Mórbida;98;;E;2 andar;59;N;Y;;Y;26/05/2008;31/12/1840;N;N;;N
+516094;SFTRPG;SFT - Orto-trauma ( RPG );98;;E;2 andar;59;N;Y;;Y;29/05/2008;31/12/1840;N;N;;N
+516095;SFTTO;SFT - Terapia Ocupacional-Órteses ;98;;E;2 andar;59;N;Y;;Y;29/05/2008;31/12/1840;N;N;;N
+516096;OTAQ;Artroscopia de quadril - Ortopedia;;;E;;44;N;N;;N;11/06/2008;31/12/1840;N;N;;N
+516097;OCSS;Onco-Serviço Social;53;;E;;44;N;Y;;N;20/06/2008;31/12/1840;N;N;;N
+516098;SFTSESSA;SFT - Saúde do Trabalhador;98;;E;2 andar;59;N;Y;;Y;24/06/2008;31/12/1840;N;N;;N
+516099;RE;Reumato/Endocrinologia;;;E;;;N;N;;N;26/06/2008;31/12/1840;N;N;;N
+516100;HEPATO;Serviço de Hepatologia;;;E;;;N;Y;;Y;04/07/2008;31/12/1840;N;N;;N
+516101;OPSOR;Operação Sorriso;;;E;;;N;N;;N;13/08/2008;31/12/1840;N;N;;N
+516102;OPSORB;Operação Sorriso Berço;;;E;;;N;N;;N;13/08/2008;31/12/1840;N;N;;N
+516103;OPSORL;Operação Sorriso Leito;;;E;;;N;N;;N;13/08/2008;31/12/1840;N;N;;N
+516104;SANTPAT;Serviço de Anatomia Patológica;;;O;;;N;N;;N;14/08/2008;31/12/1840;N;N;;N
+516105;ARQUIVO;Arquivo;;;O;;;N;N;;N;27/08/2008;31/12/1840;N;N;;N
+516106;SAS;Subsecretaria de Atenção à Saúde;;;O;;;N;N;;N;27/08/2008;31/12/1840;N;N;;N
+516107;PSUN;Procuradoria Seccional da União de Niterói;;;O;;;N;N;;N;27/08/2008;31/12/1840;N;N;;N
+516108;CCS;CCS;;;O;;68;N;N;;N;27/08/2008;31/12/1840;N;N;;N
+516109;DVST1;DVST;;;O;;;N;N;;N;27/08/2008;31/12/1840;N;N;;N
+516110;SMFR;Serviço de Medicina Física e Reabilitação;;;O;;;N;Y;;N;01/09/2008;31/12/1840;N;N;;N
+516111;SMN;Serviço de Medicina Nuclear;;;O;;;N;Y;;N;01/09/2008;31/12/1840;N;N;;N
+516112;SICC;Serviço de Intercorrências Clínicas e Cirúrgicas;;;O;;;N;N;;N;03/09/2008;31/12/1840;N;N;;N
+516113;NFB;Nefrologia(Biópsia);;;E;;;N;N;;N;10/10/2008;31/12/1840;N;N;;N
+516114;EFCURAT;COMEIP/Estomaterapia - Ambulatório;99;;E;2º andar;44;N;Y;;N;18/12/2008;31/12/1840;N;N;;N
+516115;SS08;Serviço Social - 8º andar;;;E;;55;N;N;;N;27/01/2009;31/12/1840;N;N;;N
+516118;UPCI;UPC - Unidade de Pesquisa Clínica;;;E;;67;N;Y;;N;30/01/2009;31/12/1840;N;N;;N
+516119;CTINC;CTI-Neurocirúrgico;63;;W;13;54;N;Y;2;Y;17/03/2009;31/12/1840;N;N;;N
+516120;PKCP;Portadores de KCP;;;E;;;N;N;;N;06/05/2009;31/12/1840;N;N;;N
+516121;SORT;SME-Ortopedia e Traumatologia;50;;E;3º andar;46;N;Y;;Y;13/05/2009;31/12/1840;N;N;;N
+516122;PCTHPNEU;Tisiologia - Pneumologia ;36;;E;;66;N;Y;;N;16/07/2009;31/12/1840;N;N;;N
+516123;PCTHENF;Tisiologia - Enfermagem ;36;;E;;66;N;Y;;N;16/07/2009;31/12/1840;N;N;;N
+516124;PCTHAMB;Tisiologia - Ambulatório do IDT;;;E;;66;N;N;;N;16/07/2009;31/12/1840;N;N;;N
+516125;PNPMNTB;Pesquisa em MNTb - Pneumologia;36;;E;;44;N;Y;;N;04/08/2009;31/12/1840;N;N;;N
+516126;CDHEMO;Cardiologia/Hemodinâmica;;;E;;;N;N;;N;13/08/2009;31/12/1840;N;N;;N
+516127;CLINFA;Clínica Médica/Influenza A;;;O;;;N;N;;N;14/08/2009;31/12/1840;N;N;;N
+516128;UCORHEM;Un. Coronariana/Hemodinâmica;;;O;;;N;N;;N;01/09/2009;31/12/1840;N;N;;N
+516129;LANCE;LANCE - Laboratorio Nacional de Celulas-Tronco Embrionarias;;;O;;;N;N;;N;14/12/2009;31/12/1840;N;N;;N
+516130;EDNUT;Endocrino/Nutrologia;;;E;;;N;N;;N;04/01/2010;31/12/1840;N;N;;N
+516131;NF;Nefrologia;;;E;;;N;N;;N;04/01/2010;31/12/1840;N;N;;N
+516132;OCORTOP;Onco-Ortopedia;50;;E;2 andar;44;N;Y;;N;02/03/2010;31/12/1840;N;N;;N
+516133;LPCTB;Laboratório de Pesquisa Clínica em Tuberculose;36;;E;;66;N;Y;;N;17/03/2010;31/12/1840;N;N;;N
+516134;ENFIC;Insuficiência Cardiaca - Enfermagem;99;;E;;44;N;Y;;N;28/04/2010;31/12/1840;N;N;;N
+516135;NUTIC;Insuficiência Cardiaca - Nutrição;66;;E;;44;N;Y;;N;28/04/2010;31/12/1840;N;N;;N
+516136;SSIC;Insuficiência Cardiaca - Serviço Social;53;;E;;44;N;Y;;N;28/04/2010;31/12/1840;N;N;;N
+516137;FISIC;Insuficiência Cardiaca - Fisioterapia;98;;E;;44;N;Y;;N;28/04/2010;31/12/1840;N;N;;N
+516138;FARIC;Insuficência Cardiaca - Farmacia;24;;E;;44;N;Y;;N;29/04/2010;31/12/1840;N;N;;N
+516139;CLIGERI;Clínica Médica/Geriatria;;;O;;;N;N;;N;25/05/2010;31/12/1840;N;N;;N
+516140;ESTHEPAT;Esteatose Hepatica;;;E;;44;N;Y;;N;09/06/2010;31/12/1840;N;N;;N
+516141;IMEF;Imunologia - Enfermagem;99;;E;;44;N;Y;;N;22/07/2010;31/12/1840;N;N;;N
+516142;CGEE;Esofago e Estomago - Cirurgia Geral;;;E;;44;N;Y;;N;13/08/2010;31/12/1840;N;N;;N
+516143;CGPANCRE;Pancreas - Cirurgia Geral ;;;E;;44;N;Y;;N;13/08/2010;31/12/1840;N;N;;N
+516145;PTBRONQ;Bronquiectasias - Pneumologia;36;;E;;44;N;Y;;N;27/08/2010;31/12/1840;N;N;;N
+516146;LABPOLI;Lab Polissonografia;;;E;;79;N;Y;;Y;31/08/2010;31/12/1840;N;N;;N
+516148;UCUCC;UC/UCC;;;W;8;;N;Y;;Y;27/09/2010;31/12/1840;N;N;;N
+516149;CGGSRB;Glandulas Supra-Renais e Baco - Cirurgia Geral;43;;E;;44;N;Y;;N;13/10/2010;31/12/1840;N;N;;N
+516150;LLCIRPLA;Labio Leporino Cirurgia Plastica;40;;E;;44;N;Y;;N;25/10/2010;31/12/1840;N;N;;N
+516151;GASTEND;Gastro/Endócrino;;;E;;;N;N;;N;01/02/2011;31/12/1840;N;N;;N
+516152;CLCOORT;Clínica Médica/COORTE-KPC;;;E;;;N;N;;N;01/02/2011;31/12/1840;N;N;;N
+516153;IMDEP;Imunodeprimido;;;E;;;N;N;;N;03/02/2011;31/12/1840;N;N;;N
+516154;ESTNEUR;Estereotaxia - Neurocirurgia;;;E;;44;N;Y;;N;15/02/2011;31/12/1840;N;N;;N
+516155;GAEX;Gastro/Exame;;;E;;;N;N;;N;17/02/2011;31/12/1840;N;N;;N
+516156;GAENEX;Gastro/Endócrino/Exame;;;;;;N;N;;N;17/02/2011;31/12/1840;N;N;;N
+516157;LABNAM;Laboratório de Nanorradiofarmacos;;;E;subsolo;50;N;Y;;Y;24/02/2011;31/12/1840;N;N;;N
+516158;CDCP;Cardio-Curta permanência;;;E;;;N;N;;N;02/03/2011;31/12/1840;N;N;;N
+516159;CVCP;Cir. Vasc.-Curta permanência;;;E;;;N;N;;N;02/03/2011;31/12/1840;N;N;;N
+516160;PNFIB;Fribose Pulmonar Idiopática - Pneumologia ;36;;E;;44;N;Y;;N;18/03/2011;31/12/1840;N;N;;N
+516161;PSINSCAR;Insuficiência Cardiaca - Psiquiatria;135;;E;;44;N;Y;;N;18/03/2011;31/12/1840;N;N;;N
+516162;DMALOP;Alopécias - Dermatologia;;;E;;44;N;N;;N;22/03/2011;31/12/1840;N;N;;N
+516163;UCCN;Un. Cir. Cardíaca;;;W;8;;N;Y;;Y;11/04/2011;13/04/2011;N;N;;N
+516164;SFTATAX;SFT - Neuro/Hemiparesia;98;;E;;59;N;Y;;Y;25/04/2011;31/12/1840;N;N;;N
+516165;CTIGER;CTI-Geral COORTE;;;W;13;54;N;Y;;Y;27/04/2011;31/12/1840;N;N;;N
+516166;HMTC;Hematologia Clínica - inativo;;;W;3;;N;Y;;Y;17/05/2011;31/12/1840;N;N;;N
+516167;DA;Diretoria Adjunta;;;O;;;N;N;;N;15/06/2011;31/12/1840;N;N;;N
+516168;OCTNE;Onco-Tumor Neuro Endocrino;3;;E;;44;N;Y;;N;16/06/2011;31/12/1840;N;N;;N
+516169;CPERM;Curta Permanência;;;E;;;N;N;;N;11/08/2011;31/12/1840;N;N;;N
+516171;EXGAS;Exame/Gastro;;;E;;;N;N;;N;20/10/2011;31/12/1840;N;N;;N
+516172;EXGEN;Exame/Gastro/Endócrino/Nutro;;;E;;;N;N;;N;20/10/2011;31/12/1840;N;N;;N
+516173;GERFISIA;Geriatria - Fisiatria;60;;E;ambulatorio;44;N;Y;;N;24/10/2011;31/12/1840;N;N;;N
+516174;CIH;CCIH;;;E;;;N;N;;N;24/10/2011;31/12/1840;N;N;;N
+516175;PCTHSS;Tisiologia - Serviço Social;36;;E;;66;N;Y;;N;01/12/2011;31/12/1840;N;N;;N
+516176;HEPATELA;Acesso Expandido do TELAPREVIR;1;;E;1 andar;44;N;Y;;N;05/01/2012;31/12/1840;N;N;;N
+516177;TCAT;Time de Cateter - sala E5-15;99;;E;;;N;N;;Y;14/03/2012;31/12/1840;N;N;;N
+516178;SFTORTG;SFT - Ortopedia Geral;98;;E;;59;N;Y;;Y;15/03/2012;31/12/1840;N;N;;N
+516179;UC;UC;;;W;8;;N;Y;;Y;15/03/2012;31/12/1840;N;N;;N
+516180;06F;06F;;;W;6;;N;Y;;Y;04/04/2012;31/12/1840;N;N;;N
+516181;DIPMULT;Infectologia / Multiprofissional;28;;E;Ambulatório;44;N;Y;;N;07/05/2012;31/12/1840;N;N;;N
+516182;GINPF;Planejamento Familiar - Ginecologia;47;;E;Ambulatório;44;N;Y;;N;09/05/2012;31/12/1840;N;N;;N
+516183;SFTNEUF;SFT - Neuro Funcional;98;;E;2º Andar;59;N;Y;;Y;16/05/2012;31/12/1840;N;N;;N
+516184;TO;Serviço de Terapia Ocupacional;1;;E;2 andar;78;N;Y;;Y;24/05/2012;31/12/1840;N;N;;N
+516185;IDECOUTO;INDC - Instituto de Neurologia Deolindo Couto    UFRJ;;;O;;68;N;N;;N;05/06/2012;31/12/1840;N;N;;N
+516186;IASERJ;IASERJ;;;O;;69;N;N;;N;19/06/2012;31/12/1840;N;N;;N
+516187;COEP;Coordenação de Educação Permanente - DEN;;;O;;;N;N;;N;25/06/2012;31/12/1840;N;N;;N
+516188;HNSL;Hospital Nossa Senhora do Loreto;;;O;;69;N;N;;N;05/07/2012;31/12/1840;N;N;;N
+516189;INC;Instituto Nacional de Cadiologia - Laranjeiras;;;O;;69;N;N;;N;05/07/2012;31/12/1840;N;N;;N
+516190;HEJBC;Hospital Estadual João Batista Caffaro;;;O;;69;N;N;;N;05/07/2012;31/12/1840;N;N;;N
+516191;HPMN;Hospital da Polícia Militar de Niteroí;;;O;;69;N;N;;N;05/07/2012;31/12/1840;N;N;;N
+516192;SCVASC;SME-Cirurgia Vascular;61;;E;3º ANDAR;46;N;Y;;Y;09/07/2012;31/12/1840;N;N;;N
+516193;HIIS;Hospital Infantil Ismerio da Silveira;;;O;;69;N;N;;N;12/07/2012;31/12/1840;N;N;;N
+516194;HCPME;Hospital Central da Polícia Militar-Estácio;;;O;;69;N;N;;N;13/07/2012;31/12/1840;N;N;;N
+516195;IFF;Instituto Fernandes Figueira;;;O;;69;N;N;;N;17/07/2012;31/12/1840;N;N;;N
+516196;PSCG;Posto de Saúde Belizário Pena(Campo Grande).;;;O;;69;N;N;;N;01/08/2012;31/12/1840;N;N;;N
+516197;HMJ;Hospital Municipal Jesus;;;O;;69;N;N;;N;02/08/2012;31/12/1840;N;N;;N
+516198;ISOCO;Isolamento/COORTE;;;E;;;N;N;;N;07/08/2012;31/12/1840;N;N;;N
+516199;UPAIG;UPA Ilha do Governador;;;O;;69;N;N;;N;24/08/2012;31/12/1840;N;N;;N
+516200;GRHOSP;Gerência de Resíduos Hospitalares;;;O;;;N;N;;N;28/08/2012;31/12/1840;N;N;;N
+516201;UPAEN;UPA Engenho Novo;;;O;;69;N;N;;N;31/08/2012;31/12/1840;N;N;;N
+516202;UPATAQ;UPA Taquara;;;O;;69;N;N;;N;24/09/2012;31/12/1840;N;N;;N
+516203;INTO;Instituto Nacional de Trauma-Ortopedia - INTO;;;O;;69;N;N;;N;24/09/2012;31/12/1840;N;N;;N
+516204;FIOCRUZ;Fundação Oswaldo Cruz;;;O;;69;N;N;;N;27/09/2012;31/12/1840;N;N;;N
+516205;MEDSONO;Medicina do Sono;38;;E;Ambulatório;44;N;Y;;N;28/09/2012;31/12/1840;N;N;;N
+516206;TRANFUNC;Transtornos Funcionais;34;;E;10º ANDAR;44;N;Y;;N;19/10/2012;31/12/1840;N;N;;N
+516207;SFTHRE;SFT - Hipertensão Resistente;98;;E;2° ANDAR;59;N;Y;;Y;23/10/2012;31/12/1840;N;N;;N
+516208;SESC-BRA;SESC - Banco Rio de Alimentos;;;O;;69;N;N;;N;29/11/2012;31/12/1840;N;N;;N
+516209;IEDS;Instituto Estadual de Dermatologia Sanitária;;;O;;69;N;N;;N;30/11/2012;31/12/1840;N;N;;N
+516210;SFTHANSP;SFT - Hanseníase-Pé;98;;E;2 andar;59;N;Y;;Y;21/12/2012;31/12/1840;N;N;;N
+516211;SFTHANSM;SFT - Hanseniase-Mão;98;;E;2 andar;59;N;Y;;Y;21/12/2012;31/12/1840;N;N;;N
+516212;CIHDOTT;Comissão Intra-Hospitalar de Doação de Órgãos e Tecidos para Transplantes;;;O;5 andar;;N;N;;N;10/01/2013;31/12/1840;N;N;;N
+516213;PCLINCOM;PoliClínica Lincom de Freitas Filho;;;O;;69;N;N;;N;11/01/2013;31/12/1840;N;N;;N
+516214;HFI;Hospital de Ipanema;;;O;;69;N;N;;N;16/01/2013;31/12/1840;N;N;;N
+516215;HSF;Hospital Salgado Filho;;;O;;69;N;N;;N;16/01/2013;31/12/1840;N;N;;N
+516216;HPNI;Hospital da Posse de Nova Iguaçu;;;O;;69;N;N;;N;24/01/2013;31/12/1840;N;N;;N
+516217;HMK;Hospital Mário kroeff;;;O;;69;N;N;;N;24/01/2013;31/12/1840;N;N;;N
+516218;HSA;Hospital Souza Aguiar;;;O;;69;N;N;;N;25/01/2013;31/12/1840;N;N;;N
+516219;UMANI;Unidade Mista de Austin em Nova Iguaçu;;;O;;69;N;N;;N;28/01/2013;31/12/1840;N;N;;N
+516220;HSE;Hospital dos Servidores do Estado;;;O;;69;N;N;;N;31/01/2013;31/12/1840;N;N;;N
+516221;NPA;Núcleo de Pesquisa em Artrite;37;;E;7 andar;;N;Y;;N;15/02/2013;31/12/1840;N;N;;N
+516222;HGRJ;Hospital Geral do Rio de Janeiro;;;O;;69;N;N;;N;26/02/2013;31/12/1840;N;N;;N
+516223;CORPBOMB;Corpo de Bombeiro Militar RJ;;;O;;69;N;N;;N;08/03/2013;31/12/1840;N;N;;N
+516224;SFTOMOII;SFT - Ortese MOII;98;;E;;59;N;Y;;Y;19/03/2013;31/12/1840;N;N;;N
+516225;GRADHEPT;Graduacao em Hepatologia;1;;E;Ambulatório;44;N;Y;;N;27/03/2013;31/12/1840;N;N;;N
+516226;HOSPPIE;Hospital Municipal de Piedade;;;O;;69;N;N;;N;08/04/2013;31/12/1840;N;N;;N
+516227;HGNI;Hospital Geral de Nova Iguaçu;;;O;;69;N;N;;N;10/04/2013;31/12/1840;N;N;;N
+516228;HEER;Hospital Estadual Eduardo Rabello;;;O;;69;N;N;;N;09/05/2013;31/12/1840;N;N;;N
+516229;LABNUT;Laboratório de Nutrologia;35;;E;;;N;Y;;Y;10/05/2013;31/12/1840;N;N;;N
+516230;HMAL;Hospital Municipal Azevedo Lima;;;O;;69;N;N;;N;15/05/2013;31/12/1840;N;N;;N
+516231;HPICAR;Hospital Piquet Carneiro;;;O;;69;N;N;;N;16/05/2013;31/12/1840;N;N;;N
+516232;INFPSI;Infecto-Psicologia;135;;E;Ambulatorio;44;N;Y;;N;29/05/2013;31/12/1840;N;N;;N
+516233;SST/SESS;SST - Seção de Segurança do Trabalho (SESSAT);;;E;;58;N;N;;N;23/08/2013;31/12/1840;N;N;;N
+516234;FISIMAMA;Fisioterapia - Oncologia Mama;98;;E;;44;N;Y;;N;29/08/2013;31/12/1840;N;N;;N
+516235;BRODPOC;Bronquiectasias e DPOC - Pneumo;36;;E;;44;N;Y;;N;12/09/2013;31/12/1840;N;N;;N
+516236;IMUTEST;Imunologia - Testes;32;;E;9º andar;44;N;Y;;N;01/11/2013;31/12/1840;N;N;;N
+516237;HEP3;SME-Hepatologia - 3º andar;;;E;3;46;N;Y;;Y;06/01/2014;31/12/1840;N;N;;N
+516238;IPUB;IPUB - Instituto de Psiquiatria   UFRJ;;;O;;68;N;N;;N;08/01/2014;31/12/1840;N;N;;N
+516239;OFGLAU;Glaucoma - Oftalmologia;48;;E;2 andar;44;N;Y;;N;16/01/2014;31/12/1840;N;N;;N
+516240;HJRMG;Hospital José Rabelo de Melo Guapimirim;;;O;;69;N;N;;N;21/01/2014;31/12/1840;N;N;;N
+516241;BASECRAN;Base do Cranio e Estereotaxia;42;;E;1º andar;44;N;Y;;N;14/03/2014;31/12/1840;N;N;;N
+516242;MARBRS;Marinha do Brasil  - Base Naval do RJ;;;;;69;N;N;;N;26/03/2014;31/12/1840;N;N;;N
+516243;OTTRAUM;Trauma - Ortopedia;50;;E;;44;N;Y;;N;09/04/2014;31/12/1840;N;N;;N
+516244;ENFMAST;Enfermagem - Mastologia Multidisciplinar;1;;E;;44;N;Y;;N;28/04/2014;31/12/1840;N;N;;N
+516245;ENFNEF;Enfermagem - Nefrologia;1;;E;;44;N;Y;;N;06/05/2014;31/12/1840;N;N;;N
+516246;OFTPED;Oftalmopediatria;48;;E;;44;N;Y;;N;06/05/2014;31/12/1840;N;N;;N
+516247;HI;Hospital de Irajá;;;O;;69;N;N;;N;26/05/2014;31/12/1840;N;N;;N
+516248;SM;Saúde Mental/Curta Permanência;;;E;;;N;N;;N;12/06/2014;31/12/1840;N;N;;N
+516249;CGABEG;Casa Gerontologia da Aeronautica;;;O;;69;N;N;;N;16/07/2014;31/12/1840;N;N;;N
+516250;HOCF;Hospital Federal Cardoso Fontes ;;;O;;69;N;N;;N;04/08/2014;31/12/1840;N;N;;N
+516251;CTIUC;CTI UC/UCC;;;W;8;;N;N;;N;29/09/2014;31/12/1840;N;N;;N
+516252;HUAP;Hospital Universitário Antonio Pedro - UFF;;;O;;69;N;N;;N;07/10/2014;31/12/1840;N;N;;N
+516253;SAMEN;Saúde Mental;;;E;;;N;N;;N;10/10/2014;31/12/1840;N;N;;N
+516254;SEPOSGMC;Secretaria de Pos Graduação em Med Cardiologia;;;;;;N;N;;N;22/10/2014;31/12/1840;N;N;;N
+516255;SFTCARME;SFT - Cardiorrespiratorio e Metabolico;98;;E;;59;N;Y;;Y;29/10/2014;31/12/1840;N;N;;N
+516256;UVEITEOF;Uveite-Oftalmologia;48;;E;11 andar;44;N;Y;;N;08/12/2014;31/12/1840;N;N;;N
+516257;OCENDOC;Onco-Endocrinologia;1;;E;Ambulatório;44;N;Y;;N;22/12/2014;31/12/1840;N;N;;N
+516258;SFTONCO;SFT - Onco-Neo-Pulmonar;98;;E;2 andar;59;N;Y;;Y;23/12/2014;31/12/1840;N;N;;N
+516259;HEGV;Hospital Estadual Getúlio Vargas;;;O;;69;N;N;;N;09/01/2015;31/12/1840;N;N;;N
+516260;ICES;Instituto do Coração Edson Saad - ICES;;;O;;68;N;N;;N;09/02/2015;31/12/1840;N;N;;N
+516261;PROHART;Programa de Hipertensão Arterial(ProHArt);;;O;;79;N;N;;N;09/02/2015;31/12/1840;N;N;;N
+516262;SFTHANDO;SFT- Hanseniase/Dor;98;;E;2 andar;59;N;Y;;Y;19/05/2015;31/12/1840;N;N;;N
+516263;BSHEMO;Banco de Sangue - Hemoterapia;55;;E;3º andar;;N;Y;;Y;02/06/2015;31/12/1840;N;N;;N
+516264;PNEUFIBR;Pneumologia - Fibrose Cistica;36;;E;;44;N;Y;;N;24/06/2015;31/12/1840;N;N;;N
+516265;RECPC1;Recepção (Pat. Clinica 1º andar);;;E;;;N;N;;N;24/07/2015;31/12/1840;N;N;;N
+516266;NFOST;Nefrologia Clínica - Osteodistrofia;34;;E;;44;N;Y;;N;31/08/2015;31/12/1840;N;N;;N
+516267;CTISERV;Serviço de Terapia Intensiva - CTI;63;;E;13;;N;Y;;N;15/09/2015;31/12/1840;N;N;;N
+516268;CARONC;Cardio-Oncologia;26;;E;2 andar;44;N;Y;;N;21/09/2015;31/12/1840;N;N;;N
+516269;CCSLABSI;Laboratório de Simulações - Bl N CCS;;;O;;;N;N;;N;01/10/2015;31/12/1840;N;N;;N
+516270;IEDTAP;Instituto Estadual de Doeças do Tórax Ary Parreiras;;;O;;69;N;N;;N;11/01/2016;31/12/1840;N;N;;N
+516271;CEPARM;CEPARM (07F);;;E;7 andar;77;N;Y;;N;21/01/2016;31/12/1840;N;N;;N
+516272;SFTATM;SFT - Difusões de ATM;98;;E;2 º  andar;59;N;Y;;Y;16/02/2016;31/12/1840;N;N;;N
+516273;PSSTRESS;Projeto Saúde e Stress  STD-DRH;80;;E;;;N;N;;N;04/03/2016;31/12/1840;N;N;;N
+516274;FAQUIMIO;Farmácia Quimioterapia;24;;D;4 andar;;N;N;;N;09/03/2016;31/12/1840;N;N;;N
+516275;AMB2;Ambulatório Enfermagem (2º andar);1;;E;;;N;N;;N;09/03/2016;31/12/1840;N;N;;N
+516276;PTENF;Pneumologia - Enfermagem;36;;E;2 andar;44;N;Y;;N;16/03/2016;31/12/1840;N;N;;N
+516277;MFNUT;SMFR - Nutrologia;60;;E;2° andar;49;N;Y;;Y;08/04/2016;31/12/1840;Y;N;;N
+516278;DRHSIND;Setor de Sindicância (DRH);;;O;;;N;N;;N;15/06/2016;31/12/1840;N;N;;N
+516279;SEOP;Seção Operacional de Pessoal;;;O;;;N;N;;N;21/06/2016;31/12/1840;N;N;;N
+516280;LABNR;Laboratório de Neurodegeneração e Reparo;;;E;;;N;N;;N;30/06/2016;31/12/1840;N;N;;N
+516281;TONEURO;TO - Neurologia;136;;E;;78;N;Y;;Y;03/10/2016;31/12/1840;Y;N;;N
+516282;TOHANS;TO - Hanseníase;136;;E;;78;N;Y;;Y;03/10/2016;31/12/1840;Y;N;;N
+516283;TOGER;TO - Geriatria;136;;E;;78;N;Y;;Y;03/10/2016;31/12/1840;Y;N;;N
+516284;TOGERON;TO - Gerontologia;136;;E;;78;N;Y;;Y;03/10/2016;31/12/1840;Y;N;;N
+516285;DRHSRC;Setor de Registro e Controle(DRH);;;O;;;N;N;;N;19/10/2016;31/12/1840;N;N;;N
+516286;ENGI;EndoGinecologia;47;;E;2 andar;44;N;Y;;N;30/11/2016;31/12/1840;N;N;;N
+516287;HERF;Hospital Municipal Rocha Farias;;;O;;69;N;N;;N;30/12/2016;31/12/1840;N;N;;N
+516288;CONTQUA;Controle de Qualidade - Patologia Clínica;;;E;;;N;N;;N;06/01/2017;31/12/1840;N;N;;N
+516289;ENFOFT;Enfermagem - Oftalmologia;1;;E;;44;N;Y;;N;06/03/2017;31/12/1840;N;N;;N
+516290;MFENF;SMFR - Atendimento em Enfermagem;60;;E;2º andar;49;N;Y;;Y;13/03/2017;31/12/1840;N;N;;N
+516291;LABENDNU;Lab. Pesq. Nutro/SME Endocrino-4 andar;29;;E;;46;N;Y;;Y;30/03/2017;31/12/1840;N;N;;N
+516292;BCNCIR;Base de Cranio - Neurocirurgia;42;;E;10 andar;44;N;Y;;N;10/04/2017;31/12/1840;N;N;;N
+516293;COLNCIR;Coluna - Neurocirurgia;42;;E;10 andar;44;N;Y;;N;10/04/2017;31/12/1840;N;N;;N
+516294;SFTTRORT;SFT - Trauma/Orto Membros Inferiores;98;;E;2º andar;59;N;Y;;Y;20/04/2017;31/12/1840;N;N;;N
+516295;CIBANUT;Cirurgia Bariátrica  -  Nutrologia;35;;E;;44;N;Y;;Y;12/05/2017;31/12/1840;N;N;;N
+516296;CPL;Comissão Permante de Licitação;;;O;;;N;N;;N;24/05/2017;31/12/1840;N;N;;N
+516297;CLDORSUB;Clínica da Dor - Subsolo (Raio X);38;;E;Subsolo;48;N;Y;;Y;05/06/2017;31/12/1840;N;N;;N
+516298;SME3;SME 3º Andar;;;E;;;N;N;;N;14/06/2017;31/12/1840;N;N;;N
+516299;SME4;SME 4º Andar;;;E;;;N;N;;N;14/06/2017;31/12/1840;N;N;;N
+516300;MEDFIS;Medicina Física;;;E;;;N;N;;N;14/06/2017;31/12/1840;N;N;;N
+516301;SEPAG;Seção de Pagamentos;;;O;;;N;N;;N;19/06/2017;31/12/1840;N;N;;N
+516302;SESC;Serviço de Saúde da Comunidade - DEN;;;O;;;N;N;;N;20/06/2017;31/12/1840;N;N;;N
+516303;SRC;Seção de Registro e Controle;;;O;;;N;N;;N;21/06/2017;31/12/1840;N;N;;N
+516304;SEBE;Seção de Benefícios;;;O;;;N;N;;N;21/06/2017;31/12/1840;N;N;;N
+516305;SEAT;Setor de Atendimento;;;O;;;N;N;;N;21/06/2017;31/12/1840;N;N;;N
+516306;PROJCORA;Projeto Coração;;;E;;46;N;Y;;Y;11/07/2017;31/12/1840;N;N;;N
+516307;HEAPN;Hospital Estadual Adão Pereira Nunes;;;O;;69;N;N;;N;30/08/2017;31/12/1840;N;N;;N
+516308;HOSMHS;Hospital da Mulher Heloneida Studart;;;O;;69;N;N;;N;05/09/2017;31/12/1840;N;N;;N
+516309;SEPROJ;Seção de Projetos/DEG;;;O;;;N;N;;N;17/10/2017;31/12/1840;N;N;;N
+516310;SISRADG;SISREG - RADG;;;E;;;N;N;;N;23/10/2017;31/12/1840;N;N;;N
+516311;ENDGIN;Endometriose - Ginecologia;47;;E;2 andar;44;N;Y;;N;09/11/2017;31/12/1840;N;N;;N
+516312;INFGINE;Infertilidade - Ginecologia;47;;E;2 andar;44;N;Y;;N;09/11/2017;31/12/1840;N;N;;N
+516313;HUMLJ;Hospital Municipal Lourenço Jorge;;;O;;69;N;N;;N;04/12/2017;31/12/1840;N;N;;N
+516314;CEIT;Centro de Informação Toxicológica - 3º andar;;;O;;46;N;N;;N;07/12/2017;31/12/1840;N;N;;N
+516315;INPGINE;Infanto-Puberal - Ginecologia;47;;E;;44;N;Y;;N;05/01/2018;31/12/1840;N;N;;N
+516316;SFTNEUON;SFT - Neurocirurgia/Onco-Ortopedia;98;;E;2º andar;59;N;Y;;Y;20/02/2018;31/12/1840;N;N;;N
+516317;SFTONNEU;SFT - Onco-Neuro/Neurocirurgia;98;;E;2º andar;59;N;Y;;Y;20/02/2018;31/12/1840;N;N;;N
+516318;CC-COR;08D 01;;;W;8;;N;N;;N;21/03/2018;31/12/1840;N;N;;N
+516319;CTI-08D;08D 02;;;W;8;;N;N;;N;21/03/2018;31/12/1840;N;N;;N
+516320;NPNCIRC;Nervo Periférico - Neurocirurgia;42;;E;10 andar;44;N;Y;;N;02/05/2018;31/12/1840;N;N;;N
+516321;IGMF;Instituto de Ginecologia Mancorvo Filho - UFRJ;;;O;;68;N;N;;N;13/06/2018;31/12/1840;N;N;;N
+516322;HEAT;Hospital Estadual Alberto Torres;;;O;;69;N;N;;N;14/06/2018;31/12/1840;N;N;;N
+516323;FIXORT;Fixador-Ortopedia;50;;E;10 andar;44;N;Y;;N;06/07/2018;31/12/1840;N;N;;N
+516324;HMPII;Hospital Municipal Pedro II;;;O;;69;N;N;;N;18/07/2018;31/12/1840;N;N;;N
+516325;OFTOR;Oftalmo/Oral;;;O;;;N;N;;N;21/09/2018;31/12/1840;N;N;;N
+516326;SPUNLOMB;SME- DIP;28;;E;;46;N;Y;;Y;28/09/2018;31/12/1840;N;N;;N
+516327;NEDISM;Neurologia - Distúrbios do Movimento;;;E;;44;N;N;;N;29/01/2019;31/12/1840;N;N;;N
+516328;NEATB;Neurologia - Aplicação de Toxina Botulínica;;;E;;44;N;N;;N;29/01/2019;31/12/1840;N;N;;N
+516329;COPEM;Comissão de Padronização e Qualificação de Materiais e Equipamentos Hospitalares;;;O;;;N;N;;N;30/01/2019;31/12/1840;N;N;;N
+516330;PCROROCC;PoliClínica Rodopho Rocco;;;O;;69;N;N;;N;18/02/2019;31/12/1840;N;N;;N
+516331;TOREUMA ;TO - Reumatologia;136;;E;;78;N;Y;;Y;21/03/2019;31/12/1840;Y;N;;N
+516332;TOORTESE;TO - Órtese;136;;E;;78;N;Y;;Y;21/03/2019;31/12/1840;Y;N;;N
+516333;NIR;NIR- Nucleo Interno de Regulação;;;E;;;N;N;;N;23/05/2019;31/12/1840;N;N;;N
+516334;SFTNEUGE;SFT - Neurologia  Geral;98;;E;2º andar;59;N;Y;;Y;31/05/2019;31/12/1840;N;N;;N
+516335;CASAEST;Casa dos Estudantes do Brasil;;;O;;69;N;N;;N;25/07/2019;31/12/1840;N;N;;N
+516336;SMSMOO;SMS Mario Olimpo de Oliveira;;;O;;69;N;N;;N;26/07/2019;31/12/1840;N;N;;N
+516338;NUTRENAL;Nutrição Renal;33;;E;Amb;44;N;Y;;N;11/09/2019;31/12/1840;N;N;;N
+516339;TELECOM;Setor de Telefonia - SCE;;;O;;;N;N;;N;17/09/2019;31/12/1840;N;N;;N
+516340;SFTNEUI;SFT - Neurológica I (Lesão do SNC e Periferico);98;;E;2º andar;59;N;Y;;Y;18/09/2019;31/12/1840;N;N;;N
+516341;ODONCLI;Odontologia Clínica;1;;E;;44;N;Y;;N;24/10/2019;31/12/1840;N;N;;N
+516342;ENFBARIA;PROCIBA - Enfermagem;99;;E;;44;N;Y;;Y;13/01/2020;31/12/1840;N;N;;N
+516343;NTBARIA;PROCIBA - Nutrição;66;;E;;44;N;Y;;Y;13/01/2020;31/12/1840;N;N;;N
+516344;CDBARIA;PROCIBA - Cardiologia;26;;E;;44;N;Y;;Y;13/01/2020;31/12/1840;N;N;;N
+516345;NGBARIA;PROCIBA - Nutrologia;35;;E;;44;N;Y;;Y;13/01/2020;31/12/1840;N;N;;N
+516346;PSBARIA;PROCIBA - Psiquiatria;135;;E;;44;N;Y;;Y;13/01/2020;31/12/1840;N;N;;N
+516347;SSBARIA;PROCIBA - Serviço Social;53;;E;;44;N;Y;;Y;13/01/2020;31/12/1840;N;N;;N
+516348;ORC;Cabeça e Pescoço - Otorrino;49;;E;;44;N;Y;;Y;27/01/2020;31/12/1840;N;N;;N
+516349;HAA;Hospital de Aeronáutica dos Afonsos;;;O;;69;N;N;;N;29/01/2020;31/12/1840;N;N;;N
+516350;PMAM;PoliClínica Municipal Aguinaldo de Moraes ;;;O;;69;N;N;;N;29/01/2020;31/12/1840;N;N;;N
+516351;IEDE;IEDE - Instituto Estadual de Diabetes e Endocrinologia;;;O;;69;N;N;;N;05/02/2020;31/12/1840;N;N;;N
+516352;SFTORTPE;SFT - Ortopedia Pé;98;;E;2 andar;59;N;Y;;Y;09/03/2020;31/12/1840;N;N;;N
+516353;SFTREAB;SFT - Reabilitação Geriátrica;98;;E;2 andar;59;N;Y;;Y;10/03/2020;31/12/1840;N;N;;N
+516354;CRIOCD;Crio - Cirurgia Dermatológica;27;;E;2 andar;44;N;Y;;N;18/03/2020;31/12/1840;N;N;;N
+516355;LASERCD;Laser - Cirurgia Dermatológica;27;;E;2 andar;44;N;Y;;N;18/03/2020;31/12/1840;N;N;;N
+516356;UCD;Unha - Cirurgia Dermatológica;27;;E;2 andar;44;N;Y;;N;18/03/2020;31/12/1840;N;N;;N
+516357;SEM1;Emergência - 07A;2;;EM;7º Andar;45;Y;Y;;N;05/04/2020;18/06/2020;N;N;;N
+516358;12RPA;12 RPA;;;W;;;N;N;;N;14/04/2020;31/12/1840;N;N;;N
+516359;UTICOVID;UTI COVID-19;;;W;;;N;N;;N;14/04/2020;31/12/1840;N;N;;N
+516360;UPABF;UPA Bom Pastor (Belford Roxo);;;O;;69;N;N;;N;22/05/2020;31/12/1840;N;N;;N
+516361;FACOVID;Farmácia Satélite CTI COVID-19;;;D;;;N;N;;N;29/05/2020;31/12/1840;N;N;;N
+516362;HMBR;Hospital Municipal Barata Ribeiro;;;O;;69;N;N;;N;03/06/2020;31/12/1840;N;N;;N
+516363;CARNEF;Cardiologia/Nefrologia;;;E;;;N;N;;N;18/06/2020;31/12/1840;N;N;;N
+516364;300;Neurologia - Demências;;;;;;N;N;;N;24/06/2020;31/12/1840;N;N;;N
+516365;NEUDEM;Neurologia - Demencias;34;;E;;44;N;Y;;N;25/06/2020;31/12/1840;N;N;;N
+516366;PCNAC;PoliClínica Newton Alves Cardoso;;;O;;69;N;N;;N;30/06/2020;31/12/1840;N;N;;N
+516367;PMRJ;Prefeitura Municipal do Rio de Janeiro;;;O;;69;N;N;;N;10/07/2020;31/12/1840;N;N;;N
+516368;301;do;;;;;;N;N;;N;22/07/2020;31/12/1840;N;N;;N
+516369;OROF;Cir. Oral/Oftalmo;;;E;;;N;N;;N;27/07/2020;31/12/1840;N;N;;N
+516370;SFTPOSIN;SFT - Ambulatório Pós Internação;98;;E;2 andar;59;N;Y;;Y;30/07/2020;31/12/1840;N;N;;N
+516371;RIOSAUDE;Rio Saúde ;;;O;;69;N;N;;N;30/07/2020;31/12/1840;N;N;;N
+516372;HURG;Hospital Municipal Ronaldo Gazola;;;O;;69;N;N;;N;06/08/2020;31/12/1840;N;N;;N
+516373;HMINT;Hemodinâmica Intervencionista;57;;E;Subsolo;48;N;Y;;Y;07/08/2020;31/12/1840;N;N;;N
+516374;DIP;DIP;;;E;;;N;N;;N;18/08/2020;31/12/1840;N;N;;N
+516375;DIPISO;DIP/isolamento;;;E;;;N;N;;N;18/08/2020;31/12/1840;N;N;;N
+516376;PSIQ;Psiquiatria;135;;E;Ambulatório;44;N;Y;;N;18/08/2020;31/12/1840;N;N;;N
+516377;ISONEF;Isolamento/Nefrologia;;;E;;;N;N;;N;18/08/2020;31/12/1840;N;N;;N
+516378;CTI;CTI;;;E;;;N;N;;N;18/08/2020;31/12/1840;N;N;;N
+516379;ISOCLI;Isolamento/Clínica Médica;;;E;;;N;N;;N;18/08/2020;31/12/1840;N;N;;N
+516380;ERC;ERC;;;E;;;N;N;;N;18/08/2020;31/12/1840;N;N;;N
+516381;CTICOV;CTI/COVID;;;E;;;N;N;;N;19/08/2020;31/12/1840;N;N;;N
+516382;PDC;Prefeitura Municipal de Duque de Caxias - Farmácia Central;;;O;;69;N;N;;N;04/09/2020;31/12/1840;N;N;;N
+516383;FCODONT;Faculdade de Odontologia - UFRJ ;;;O;;68;N;N;;N;09/09/2020;31/12/1840;N;N;;N
+516384;UPACD;UPA Cidade de Deus;;;O;;69;N;N;;N;20/10/2020;31/12/1840;N;N;;N
+516385;NSP;Nucleo de Segurança do Paciente;99;;E;5 andar;;N;Y;;Y;20/10/2020;31/12/1840;N;N;;N
+516386;HEANC;Hospital Estadual Anchieta;;;O;;69;N;N;;N;30/10/2020;31/12/1840;N;N;;N
+516387;UPACB;UPA Costa Barros;;;O;;69;N;N;;N;05/11/2020;31/12/1840;N;N;;N
+516388;HCRC;Hospital de Campanha Rio Centro;;;O;;69;N;N;;N;10/11/2020;31/12/1840;N;N;;N
+516389;HESM;Hospital Estadual Santa Maria;;;O;;69;N;N;;N;16/11/2020;31/12/1840;N;N;;N
+516390;DFDC;Dep. Farmácia Duque de Caxias;;;O;;69;N;N;;N;18/11/2020;31/12/1840;N;N;;N
+516391;DIPCOVID;DIP/COVID;;;E;;;N;N;;N;23/11/2020;31/12/1840;N;N;;N
+516392;ENFONCO;Enfermagem - Oncologia;1;;E;;44;N;Y;;N;24/11/2020;31/12/1840;N;N;;N
+516393;ENFCAT;Enfermagem - Cateter;1;;E;;44;N;Y;;N;24/11/2020;31/12/1840;N;N;;N
+516394;CIRONCO;Cirurgia Oncológica;43;;E;11 andar;44;N;Y;;Y;26/11/2020;31/12/1840;N;N;;N
+516395;TOPCOVID;TO - Pós COVID;136;;E;2 andar;78;N;Y;;Y;01/12/2020;31/12/1840;Y;N;;N
+516396;CARDVASC;Cir. Cardiovascular;;;E;;;N;N;;N;03/12/2020;31/12/1840;N;N;;N
+516397;NSPGTTI;Grupo de Trabalho Terapia Infusional - NSP ;;;E;;;N;N;;N;09/12/2020;31/12/1840;N;N;;N
+516398;HMAS;Hospital Municipal Albert Schweitzer;;;O;;69;N;N;;N;23/12/2020;31/12/1840;N;N;;N
+516399;HMRM;Hospital Municipal Rocha Maia;;;O;;69;N;N;;N;23/12/2020;31/12/1840;N;N;;N
+516400;HMRPS;Hospital Municipal Raphael de Paula Souza;;;O;;69;N;N;;N;13/01/2021;31/12/1840;N;N;;N
+516401;CMSRPS;CMS Raphael de Paula Souza;;;O;;69;N;N;;N;13/01/2021;31/12/1840;N;N;;N
+516402;PEM;Presidio Evaristo de Moraes;;;O;;69;N;N;;N;15/01/2021;31/12/1840;N;N;;N
+516403;13UTI2;13 UTI 2;;;W;;;N;Y;2;Y;18/01/2021;31/12/1840;N;N;;N
+516404;HMEF;Hospital Municipal Evandro Freire;;;O;;69;N;N;;N;22/01/2021;31/12/1840;N;N;;N
+516405;13UTI1;13 UTI 1;;;W;;;N;Y;2;Y;25/01/2021;31/12/1840;N;N;;N
+516406;SICCC;SICC;;;E;;;N;N;;N;29/01/2021;31/12/1840;N;N;;N
+516407;SICCCOV;SICC/COVID;;;E;;;N;N;;N;29/01/2021;31/12/1840;N;N;;N
+516408;CGCB;Cir. Geral/Bariátrica;;;E;;;N;N;;N;29/01/2021;31/12/1840;N;N;;N
+516409;CTIGERAL;CTI Geral;;;E;;;N;N;;N;29/01/2021;31/12/1840;N;N;;N
+516410;13UTI3;13 UTI 3;;;W;;;N;N;;N;29/01/2021;31/12/1840;N;N;;N
+516411;DIPGERAL;DIP Geral;;;E;;;N;N;;N;09/02/2021;31/12/1840;N;N;;N
+516412;COVID;COVID;;;E;;;N;N;;N;09/02/2021;31/12/1840;N;N;;N
+516413;DIPICOVI;DIP Isolamento/COVID;;;E;;;N;N;;N;09/02/2021;31/12/1840;N;N;;N
+516414;ISOBK;Isolamento BK;;;E;;;N;N;;N;05/03/2021;31/12/1840;N;N;;N
+516415;HMRS;Hospital Municipal Raul Setã;;;O;;69;N;N;;N;06/04/2021;31/12/1840;N;N;;N
+516416;GERQUE;Geriatria - Quedas;;;E;Ambulatorio;44;N;Y;;N;12/04/2021;31/12/1840;N;N;;N
+516417;MAR;Maternidade Alzira Reis;;;O;;69;N;N;;N;14/04/2021;31/12/1840;N;N;;N
+516418;PREOPGIN;Pré-Operatório - Ginecologia;47;;E;Ambulatório;44;N;Y;;N;16/04/2021;31/12/1840;N;N;;N
+516419;ONCODERM;Onco-Dermatologia;;;E;Ambulatório;44;N;Y;;N;22/04/2021;31/12/1840;N;N;;N
+516420;IMUNODER;Imunologia-Dermatologia;;;E;Ambulatório;44;N;Y;;N;22/04/2021;31/12/1840;N;N;;N
+516421;INTERAMB;Intercorrência Ambulatorial;1;;E;;44;N;Y;;N;07/05/2021;31/12/1840;N;N;;N
+516422;INFAMB;Infusão Ambulatorial;1;;E;;44;N;Y;;N;07/05/2021;31/12/1840;N;N;;N
+516423;MFM;Maternidade Fernando Magalhães;;;O;;69;N;N;;N;10/05/2021;31/12/1840;N;N;;N
+516424;CMR;Centro Multiprofissional  em Reabilitação;60;;E;;80;N;Y;;Y;12/05/2021;31/12/1840;N;N;;N
+516425;SFTGECAR;SFT - GECARE/Cardiorrespiratorio e Metabólico;98;;E;;59;N;Y;;Y;20/05/2021;31/12/1840;N;N;;N
+516426;CPAP;CPAP - Medicina do Sono;38;;E;Ambulatório;44;N;Y;;N;27/05/2021;31/12/1840;N;N;;N
+516427;IMUDERMA;Imunosupressão - Dermatologia;27;;E;5 andar;44;N;Y;;N;31/05/2021;31/12/1840;N;N;;N
+516428;HERC;Hospital Estadual Roberto Chabo;;;O;;69;N;N;;N;31/05/2021;31/12/1840;N;N;;N
+516429;INIFIOCR;FIOCRUZ- Instituto Nacional de Infectologia Evandro Chagas;;;O;;69;N;N;;N;10/06/2021;31/12/1840;N;N;;N
+516430;PCARN;PoliClínica Antonio Ribeiro Neto ;;;O;;69;N;N;;N;11/06/2021;31/12/1840;N;N;;N
+516431;PPROHART;Pós-Prohart - Clínica Médica;38;;E;;44;N;Y;;N;14/06/2021;31/12/1840;N;N;;N
+516432;SEMUS;Secretaria Municipal de Saude de Queimados;;;O;;69;N;N;;N;15/06/2021;31/12/1840;N;N;;N
+516433;SPSICO;Serviço de Psicologia;;;O;;;N;Y;;Y;17/06/2021;31/12/1840;N;N;;N
+516434;IECPN;Instituto Estadual do Cérebro Paulo Niemeyer;;;O;;69;N;N;;N;17/06/2021;31/12/1840;N;N;;N
+516435;TOPNEUMO;TO - Pneumologia;136;;E;;78;N;Y;;Y;28/06/2021;31/12/1840;Y;N;;N
+516436;HMMR;Hospital da Mulher Mariska Ribeiro;;;O;;69;N;N;;N;29/06/2021;31/12/1840;N;N;;N
+516437;FACSFT;Faculdade de Fisioterapia;;;O;;;N;N;;N;01/07/2021;31/12/1840;N;N;;N
+516438;DERCUT;Dermatologia - Cutâneo/Articular;27;;E;1º andar;44;N;Y;;N;02/07/2021;31/12/1840;N;N;;N
+516439;DERPSO;Dermatologia - Psoríase;27;;E;1º andar;44;N;Y;;N;02/07/2021;31/12/1840;N;N;;N
+516440;ECI10C;ECI ;;;W;;;N;N;;N;06/07/2021;06/07/2021;N;N;;N
+516441;10C-ECI;ECI - 10C;;;E;;;N;N;;N;06/07/2021;31/12/1840;N;N;;N
+516442;CPFLAB;Cirurgia Plástica - Fenda Labial;40;;E;10 andar;44;N;Y;;N;07/07/2021;31/12/1840;N;N;;N
+516443;TOG;TO- Geral;136;;E;;78;N;Y;;Y;12/07/2021;31/12/1840;Y;N;;N
+516444;FONO4;Fono - Amb. de Terapia Fonoaudiológica;133;;E;;65;N;Y;;Y;15/07/2021;31/12/1840;N;N;;N
+516445;CTICARUC;CTI Cardíado/UCO;;;E;;;N;N;;N;16/07/2021;31/12/1840;N;N;;N
+516446;ATPCI;ATPCI - Assessoria Técnica de Prevenção e Combate a Incêndio;;;O;;;N;N;;N;17/08/2021;31/12/1840;N;N;;N
+516447;PSICOL;Psicologia;83;;E;Ambulatório;44;N;Y;;N;18/08/2021;31/12/1840;N;N;;N
+516448;PSIGERNE;Psicologia - Geriatria Neuro-Psicologia;83;;E;Ambulatório;44;N;Y;;N;20/08/2021;31/12/1840;N;N;;N
+516449;HEMM;Hospital Estadual Mãe de Mesquita;;;O;;69;N;N;;N;24/08/2021;31/12/1840;N;N;;N
+516450;UPARM;UPA de Rocha Miranda;;;O;;69;N;N;;N;27/08/2021;31/12/1840;N;N;;N
+516451;CARICES;Cardiologia - ICES;26;;E;8 andar;44;N;Y;;N;10/09/2021;31/12/1840;N;N;;N
+516452;REUCOLAG;Reumatologia - Colagenose;37;;E;Ambulatorio;44;N;Y;;N;10/09/2021;31/12/1840;N;N;;N
+516453;SFTHANTR;SFT - Hanseniase Triagem;98;;E;2 andar;59;N;Y;;Y;20/09/2021;31/12/1840;N;N;;N
+516454;SGAS;Setor de Gases - DEG - SCE;;;O;;;N;N;;N;08/10/2021;31/12/1840;N;N;;N
+516455;FMMP;Farmácia Municipal Miguel Pereira ;;;O;;69;N;N;;N;19/10/2021;31/12/1840;N;N;;N
+516456;ENFCCP;Enfermagem - Curativos Cuidados Paliativos;1;;E;;44;N;Y;;N;22/10/2021;31/12/1840;N;N;;N
+516457;OTORA;Otorrinolaringologia - Ronco e Apneia;49;;E;;44;N;Y;;N;22/10/2021;31/12/1840;N;N;;N
+516458;CIRGPO;Cirurgia Geral - Pós-Operatório;43;;E;11 andar;44;N;Y;;Y;03/11/2021;31/12/1840;N;N;;N
+516459;HEAL;Hospital Estadual Azevedo Lima;;;O;;69;N;N;;N;04/11/2021;31/12/1840;N;N;;N
+516460;ORTURAM;Ortopedia - Urgência Ambulatorial;50;;E;10 andar;44;N;Y;;N;05/11/2021;31/12/1840;N;N;;N
+516461;SUIPA;SUIPA - Sociedade União Internacional Protetora dos Animais ;;;O;;69;N;N;;N;11/11/2021;31/12/1840;N;N;;N
+516462;UFRRJ;UFRRJ - Universidade Federal Rural do Rio de Janeiro;;;O;;69;N;N;;N;11/11/2021;31/12/1840;N;N;;N
+516463;OFTCIR;Oftalmologia - Cirurgia Oftalmológica;48;;E;11 andar;44;N;Y;;N;12/11/2021;31/12/1840;N;N;;N
+516464;ENFOTO;Enfermagem - Otorrinolaringologia;;;E;;44;N;N;;N;15/12/2021;31/12/1840;N;N;;N
+516465;CARTOR;Cardiologia/Cir.Torácica;;;E;;;N;N;;N;05/01/2022;31/12/1840;N;N;;N
+516466;PLOTO;Cir.Plastiva/Otorinolarringologia;;;E;;;N;N;;N;06/01/2022;31/12/1840;N;N;;N
+516467;CARCM;Cardiologia/Cir. Cardiaca;;;E;;;N;N;;N;10/01/2022;31/12/1840;N;N;;N
+516468;EEG;Sala de vídeo - EEG;;;E;;;N;N;;N;01/02/2022;31/12/1840;N;N;;N
+516469;ERCPC;ERC PÓS COVID;;;E;;;N;N;;N;02/02/2022;31/12/1840;N;N;;N
+516470;CEPOP;Cirurgia de Estômago e Pós-Operatório;1;;E;;44;N;Y;;N;10/02/2022;31/12/1840;N;N;;N
+516471;GINEPOS;Ginecologia - Pós - Operatório;1;;E;;44;N;Y;;Y;16/03/2022;31/12/1840;N;N;;N
+516472;HEMOARR;Proc. Hemodinâmica e Arritmia;;;E;;;N;N;;N;05/04/2022;31/12/1840;N;N;;N
+516473;UPAMAD;UPA de Madureira;;;O;;69;N;N;;N;07/04/2022;31/12/1840;N;N;;N
+516474;COMEIPA;COMEIP - Ambulatório;;;E;;;N;N;;N;28/04/2022;31/12/1840;N;N;;N
+516475;UCI;UCI;;;E;;;N;N;;N;06/06/2022;31/12/1840;N;N;;N
+516476;INTERHEM;Intercorrência Hemodiálise;;;E;;;N;N;;N;07/06/2022;31/12/1840;N;N;;N
+516477;CTICIRCA;CTI Cirurgia Cardíaca;;;E;;;N;N;;N;09/06/2022;31/12/1840;N;N;;N
+516478;CTICOR;CTI Coronário;;;E;;;N;N;;N;09/06/2022;31/12/1840;N;N;;N
+516479;SFTLIRP;SFT - LIRP/ Reabilitação Pulmonar;98;;E;2º andar;59;N;Y;;Y;10/06/2022;31/12/1840;N;N;;N
+516480;IVJV;Instituto Veterinario Jorge Vaitsman;;;O;;69;N;N;;N;30/06/2022;31/12/1840;N;N;;N
+516481;CPT;CPT - Centro de Pesquisa em Tuberculose;;;O;;;N;N;;N;04/07/2022;31/12/1840;N;N;;N
+516482;NFAH;Nefrologia - Amiloidoses Hereditárias;33;;E;;44;N;Y;;N;06/07/2022;31/12/1840;N;N;;N
+516483;HCAP;Hospital Central Aristarcho Pessoa -CBMERJ;;;O;;69;N;N;;N;22/07/2022;31/12/1840;N;N;;N
+516484;HMFST;Hospital Municipal Francisco da Silva Telles -Irajá;;;O;;69;N;N;;N;22/07/2022;31/12/1840;N;N;;N
+516485;CERB;CER Barra;;;O;;69;N;N;;N;22/07/2022;31/12/1840;N;N;;N
+516486;ALXNIT;Prefeitura de Niteroi - Almoxarifado de Medicamento;;;O;;69;N;N;;N;10/08/2022;31/12/1840;N;N;;N
+516487;ARRITHEM;Arritmia/Hemodinâmica;;;E;;;N;N;;N;12/08/2022;31/12/1840;N;N;;N
+516488;LTCIR;Leito Cirúrgico;;;E;;;N;N;;N;16/08/2022;31/12/1840;N;N;;N
+516489;CARGER;Cardiologia/Geriatria;;;E;;;N;N;;N;22/08/2022;31/12/1840;N;N;;N
+516491;NEFHEMO;Nefrologia/Hemodiálise;;;E;;;N;N;;N;12/09/2022;31/12/1840;N;N;;N
+516492;NCF;Neurocirurgia - Fisioterapia;42;;E;;44;N;Y;;N;01/02/2023;31/12/1840;N;N;;N
+516493;PCBARIA;PROCIBA - Psicologia;1;;E;1º Andar;44;N;Y;;Y;02/02/2023;31/12/1840;N;N;;N
+516494;PNDRS;Pneumologia - Disturbios Respiratorios do Sono ;1;;E;;44;N;Y;;N;02/02/2023;31/12/1840;N;N;;N
+516495;SECRES;Secretaria Municipal de Resende;;;O;;69;N;N;;N;03/02/2023;31/12/1840;N;N;;N
+516496;OFTUA;Oftalmologia - Urgência  Ambulatorial;48;;E;11 Andar;44;N;Y;;N;10/02/2023;31/12/1840;N;N;;N
+516497;OTOUA;Otorrinolaringologia - Urgência Ambulatorial;49;;E;11ª andar;44;N;Y;;N;10/02/2023;31/12/1840;N;N;;N
+516498;FMDC;Departamento de Farmácia e Insumos Estratégicos do Município de Duque de Caxias;;;O;;69;N;N;;N;24/02/2023;31/12/1840;N;N;;N
+516499;UPITA;UPA Itaboraí;;;O;;69;N;N;;N;08/03/2023;31/12/1840;N;N;;N
+516500;SCCS;Super Centro Carioca de Saúde;;;O;;69;N;N;;N;13/03/2023;31/12/1840;N;N;;N
+516503;NUTCARD;Nutrição - Cardiologia;1;;E;;44;N;Y;;N;06/04/2023;31/12/1840;N;N;;N

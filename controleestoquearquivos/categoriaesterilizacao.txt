@@ -1,0 +1,7 @@
+1;Descartável
+2;Permanente
+3;Temporário
+4;Desinfecção
+5;Consignado Permanente
+6;Consignado Temporário
+7;Outros

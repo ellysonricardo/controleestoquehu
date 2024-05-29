@@ -1,0 +1,10 @@
+2;Estocáveis
+3;Laticinios
+4;Pães
+5;Hortifrut
+6;Carnes em Geral
+7;Descartáveis
+8;Material de Limpeza e Higiene
+9;Alto custo
+11;Utensílios
+12;EPI

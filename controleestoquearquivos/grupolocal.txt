@@ -1,0 +1,36 @@
+44;AMB;Ambulatório
+45;EM;Emergência
+46;SME;Métodos Especiais
+47;SAA;Admissão e Alta
+48;RD;Radiodiagnóstico
+49;SMFR;Medicina Física e Reabilitação
+50;MN;Medicina Nuclear
+51;TRAMED;Transplante de Medula
+52;ANAT;Anatomia Patológica
+53;HEMO;Hemoterapia
+54;OUT;Outros
+55;SS;Serviço Social
+56;NUT;Nutrição
+57;PAT;Patologia Clínica
+58;SESSAT;SESSAT
+59;SFT;Fisioterapia
+60;CARD;Cardiologia 
+61;RDT;Radioterapia
+62;HOD;Hospital Dia
+63;CCIR;Centro Cirúrgico
+64;NEFRO;Nefrologia
+65;FN;Fonoaudiologia
+66;PCTH;Tisiologia - IDT
+67;UPC;UPC - 5F
+68;UFRJ;Unidades da UFRJ
+69;UNIEXT;Unidades Externas
+70;HEMATO;Hematologia Clínica
+71;NEURO;Neurologia
+72;HEPAT;Hepatologia
+75;PADI;PADI - Prog.  Assist. Domiciliar Interdisciplinar
+77;CEPARM;CEPARM
+78;TO;Terapia Ocupacional
+79;CL;Clínica Médica
+80;CMR;Centro Multiprofissional em Reabilitação
+81;ODONCLI;Odontologia Clinica
+82;DENSI;Densitometria Ossea
